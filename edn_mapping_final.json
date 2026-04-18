@@ -1,0 +1,4494 @@
+[
+  {
+    "matiere": "ANAT",
+    "n": 1,
+    "intitule": "Les voies de conduction nerveuse et sensitive : voies de la sensibilité proprioceptive et voies de la sensibilité extéroceptive",
+    "edn_pdfs": [
+      {
+        "filename": "1076_L1_neurologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1076_L1_neurologie.pdf"
+      },
+      {
+        "filename": "1077_L2_1629313321_092-ex-090-deficit-moteur-sensitif.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1077_L2_1629313321_092-ex-090-deficit-moteur-sensitif.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 2,
+    "intitule": "Les voies de la motricité : volontaire et involontaire",
+    "edn_pdfs": [
+      {
+        "filename": "1076_L1_neurologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1076_L1_neurologie.pdf"
+      },
+      {
+        "filename": "1077_L2_1629313321_092-ex-090-deficit-moteur-sensitif.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1077_L2_1629313321_092-ex-090-deficit-moteur-sensitif.pdf"
+      },
+      {
+        "filename": "1080_L2_1629313368_093ex-091-compression-medullaire-0-syndrome-de-la-queue-de-cheval.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1080_L2_1629313368_093ex-091-compression-medullaire-0-syndrome-de-la-queue-de-cheval.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 3,
+    "intitule": "Le plexus splanchnique cœliaque : constitution et rapports",
+    "edn_pdfs": [
+      {
+        "filename": "0685_L1_HGO.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0685_L1_HGO.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 4,
+    "intitule": "Vascularisation de l'encéphale : le polygone de Willis",
+    "edn_pdfs": [
+      {
+        "filename": "1190_L2_1636978478_340-ex-335-avc.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1190_L2_1636978478_340-ex-335-avc.pdf"
+      },
+      {
+        "filename": "1204_L2_1636978490_341-ex-336-hemorragie-meningee.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1204_L2_1636978490_341-ex-336-hemorragie-meningee.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 5,
+    "intitule": "Les hémisphères cérébraux : configuration extérieure et les aires fonctionnelles corticales",
+    "edn_pdfs": [
+      {
+        "filename": "1076_L1_neurologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1076_L1_neurologie.pdf"
+      },
+      {
+        "filename": "1190_L2_1636978478_340-ex-335-avc.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1190_L2_1636978478_340-ex-335-avc.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 6,
+    "intitule": "Les voies de conduction visuelles : origine, trajet, terminaisons",
+    "edn_pdfs": [
+      {
+        "filename": "1235_L1_ophtalmologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1235_L1_ophtalmologie.pdf"
+      },
+      {
+        "filename": "1239_L2_1629293973_081-ex-079-alteration-chronique-de-la-vision.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1239_L2_1629293973_081-ex-079-alteration-chronique-de-la-vision.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 7,
+    "intitule": "Le nerf facial : origines, trajet et rapports des différents segments (endocrânien, intrapariétal et extra-crânien)",
+    "edn_pdfs": [
+      {
+        "filename": "1232_L2_1640266826_101-ex-099-paralysie-faciale.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1232_L2_1640266826_101-ex-099-paralysie-faciale.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 8,
+    "intitule": "Le creux axillaire : parois et contenu",
+    "edn_pdfs": [
+      {
+        "filename": "1596_L1_rhumato-orthopedie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1596_L1_rhumato-orthopedie.pdf"
+      },
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 9,
+    "intitule": "L'articulation scapulo-humérale",
+    "edn_pdfs": [
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      },
+      {
+        "filename": "1614_L2_1636979182_361-ex-357-lesions-peri-articuaires-et-ligamentaires.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1614_L2_1636979182_361-ex-357-lesions-peri-articuaires-et-ligamentaires.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 10,
+    "intitule": "Le canal carpien : parois et contenu",
+    "edn_pdfs": [
+      {
+        "filename": "1100_L2_1629313556_096-ex-094-neuropathies-peripheriques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1100_L2_1629313556_096-ex-094-neuropathies-peripheriques.pdf"
+      },
+      {
+        "filename": "1596_L1_rhumato-orthopedie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1596_L1_rhumato-orthopedie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 11,
+    "intitule": "Le nerf radial : origine, trajet, rapports, et distribution",
+    "edn_pdfs": [
+      {
+        "filename": "1100_L2_1629313556_096-ex-094-neuropathies-peripheriques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1100_L2_1629313556_096-ex-094-neuropathies-peripheriques.pdf"
+      },
+      {
+        "filename": "1093_L2_1629313522_095-ex-093-radiculalgies.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1093_L2_1629313522_095-ex-093-radiculalgies.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 12,
+    "intitule": "La loge thénar",
+    "edn_pdfs": [
+      {
+        "filename": "1596_L1_rhumato-orthopedie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1596_L1_rhumato-orthopedie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 13,
+    "intitule": "Le nerf crural : origine, trajet, rapport et terminaison",
+    "edn_pdfs": [
+      {
+        "filename": "1100_L2_1629313556_096-ex-094-neuropathies-peripheriques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1100_L2_1629313556_096-ex-094-neuropathies-peripheriques.pdf"
+      },
+      {
+        "filename": "1093_L2_1629313522_095-ex-093-radiculalgies.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1093_L2_1629313522_095-ex-093-radiculalgies.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 14,
+    "intitule": "Le nerf sciatique : origine, trajet, rapports et branches terminales",
+    "edn_pdfs": [
+      {
+        "filename": "1100_L2_1629313556_096-ex-094-neuropathies-peripheriques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1100_L2_1629313556_096-ex-094-neuropathies-peripheriques.pdf"
+      },
+      {
+        "filename": "1093_L2_1629313522_095-ex-093-radiculalgies.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1093_L2_1629313522_095-ex-093-radiculalgies.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 15,
+    "intitule": "L'articulation coxo-fémorale : description et rapports",
+    "edn_pdfs": [
+      {
+        "filename": "1677_L2_1642165919_054-ex-052-and-153-boiterie-et-infection-osteo-articulaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1677_L2_1642165919_054-ex-052-and-153-boiterie-et-infection-osteo-articulaire.pdf"
+      },
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 16,
+    "intitule": "Le triangle de Scarpa : parois et contenu",
+    "edn_pdfs": [
+      {
+        "filename": "1596_L1_rhumato-orthopedie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1596_L1_rhumato-orthopedie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 17,
+    "intitule": "L'articulation du genou : description et rapports",
+    "edn_pdfs": [
+      {
+        "filename": "1614_L2_1636979182_361-ex-357-lesions-peri-articuaires-et-ligamentaires.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1614_L2_1636979182_361-ex-357-lesions-peri-articuaires-et-ligamentaires.pdf"
+      },
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 18,
+    "intitule": "Le sein : structure et vascularisation",
+    "edn_pdfs": [
+      {
+        "filename": "0532_L2_1636653089_312-ex-309-tumeur-du-sein.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0532_L2_1636653089_312-ex-309-tumeur-du-sein.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 19,
+    "intitule": "Le cœur : configuration extérieure, configuration intérieure et vascularisation",
+    "edn_pdfs": [
+      {
+        "filename": "0051_L1_cardiologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0051_L1_cardiologie.pdf"
+      },
+      {
+        "filename": "0168_L2_1642156603_231-ex-229-electrocardiogramme.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0168_L2_1642156603_231-ex-229-electrocardiogramme.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 20,
+    "intitule": "Le poumon : segmentation, rapports, vaisseaux et nerfs",
+    "edn_pdfs": [
+      {
+        "filename": "1372_L1_pneumologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1372_L1_pneumologie.pdf"
+      },
+      {
+        "filename": "1483_L2_1642348245_309-ex-306-tumeurs-du-poumon.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1483_L2_1642348245_309-ex-306-tumeurs-du-poumon.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 21,
+    "intitule": "Le diaphragme : configuration, vascularisation et innervation",
+    "edn_pdfs": [
+      {
+        "filename": "1372_L1_pneumologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1372_L1_pneumologie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 22,
+    "intitule": "Le canal inguinal : parois et contenu",
+    "edn_pdfs": [
+      {
+        "filename": "0776_L2_1636651028_289-ex-286-hernie-parietale.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0776_L2_1636651028_289-ex-286-hernie-parietale.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 23,
+    "intitule": "L'œsophage : description, rapport des différentes portions",
+    "edn_pdfs": [
+      {
+        "filename": "0718_L2_1636102497_273-ex-270-dysphagie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0718_L2_1636102497_273-ex-270-dysphagie.pdf"
+      },
+      {
+        "filename": "0783_L2_1636651669_305-ex-302-tumeurs-de-lsophage.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0783_L2_1636651669_305-ex-302-tumeurs-de-lsophage.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 24,
+    "intitule": "L'estomac : description, rapports, vaisseaux et nerfs",
+    "edn_pdfs": [
+      {
+        "filename": "0709_L2_1636102416_272-ex-269-ugd.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0709_L2_1636102416_272-ex-269-ugd.pdf"
+      },
+      {
+        "filename": "0779_L2_1636651523_303-ex-300-tumeurs-de-lestomac.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0779_L2_1636651523_303-ex-300-tumeurs-de-lestomac.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 25,
+    "intitule": "La loge duodéno-pancréatique : contenu et rapports",
+    "edn_pdfs": [
+      {
+        "filename": "0760_L2_1636650468_308-ex-305-tumeurs-du-pancreas.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0760_L2_1636650468_308-ex-305-tumeurs-du-pancreas.pdf"
+      },
+      {
+        "filename": "0698_L2_1635510178_358-ex-353-pancreatite-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0698_L2_1635510178_358-ex-353-pancreatite-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 26,
+    "intitule": "La segmentation hépatique",
+    "edn_pdfs": [
+      {
+        "filename": "0788_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0788_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf"
+      },
+      {
+        "filename": "0729_L2_1636103146_279-ex-276-cirrhose.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0729_L2_1636103146_279-ex-276-cirrhose.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 27,
+    "intitule": "Le pédicule hépatique : constitution et rapports",
+    "edn_pdfs": [
+      {
+        "filename": "0788_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0788_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf"
+      },
+      {
+        "filename": "0811_L2_1638810763_277-ex-274-lithiase-biliaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0811_L2_1638810763_277-ex-274-lithiase-biliaire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 28,
+    "intitule": "La loge splénique : contenant et contenu",
+    "edn_pdfs": [
+      {
+        "filename": "0633_L2_1634721095_275-ex-272-slpenomegalie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0633_L2_1634721095_275-ex-272-slpenomegalie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 29,
+    "intitule": "L'aorte abdominale : origine, trajet, branches collatérales, rapports et terminaison",
+    "edn_pdfs": [
+      {
+        "filename": "0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 30,
+    "intitule": "La loge rénale : parois et contenu",
+    "edn_pdfs": [
+      {
+        "filename": "0983_L1_nephrologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0983_L1_nephrologie.pdf"
+      },
+      {
+        "filename": "1845_L2_1633212011_311-ex-308-tumeurs-du-rein.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1845_L2_1633212011_311-ex-308-tumeurs-du-rein.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 31,
+    "intitule": "La vessie : configurations et rapports",
+    "edn_pdfs": [
+      {
+        "filename": "1899_L2_1638867688_314-ex-311-tumeurs-vesicales.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1899_L2_1638867688_314-ex-311-tumeurs-vesicales.pdf"
+      },
+      {
+        "filename": "1836_L1_urologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1836_L1_urologie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 32,
+    "intitule": "Le rectum : configurations, rapports, vaisseaux et nerfs",
+    "edn_pdfs": [
+      {
+        "filename": "0764_L2_1636650506_301-ex-298-ccr.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0764_L2_1636650506_301-ex-298-ccr.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 33,
+    "intitule": "Le canal déférent : origine, trajet, rapport et terminaison",
+    "edn_pdfs": [
+      {
+        "filename": "1853_L2_1633374543_310-ex-307-tumeur-de-la-prostate.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1853_L2_1633374543_310-ex-307-tumeur-de-la-prostate.pdf"
+      },
+      {
+        "filename": "1865_L2_1633522382_127-ex-123-hypertrophie-benigne-de-la-prostate.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1865_L2_1633522382_127-ex-123-hypertrophie-benigne-de-la-prostate.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 34,
+    "intitule": "La loge prostatique : parois et contenu",
+    "edn_pdfs": [
+      {
+        "filename": "1853_L2_1633374543_310-ex-307-tumeur-de-la-prostate.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1853_L2_1633374543_310-ex-307-tumeur-de-la-prostate.pdf"
+      },
+      {
+        "filename": "1865_L2_1633522382_127-ex-123-hypertrophie-benigne-de-la-prostate.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1865_L2_1633522382_127-ex-123-hypertrophie-benigne-de-la-prostate.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 35,
+    "intitule": "L'utérus : configurations, rapports et vaisseaux",
+    "edn_pdfs": [
+      {
+        "filename": "0517_L2_1636652799_300-ex-297-tumeurs-du-corps-uterin.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0517_L2_1636652799_300-ex-297-tumeurs-du-corps-uterin.pdf"
+      },
+      {
+        "filename": "0520_L2_1636652898_300-ex-297-tumeurs-du-col-de-luterus.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0520_L2_1636652898_300-ex-297-tumeurs-du-col-de-luterus.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 36,
+    "intitule": "La loge thyroïdienne : parois et contenu",
+    "edn_pdfs": [
+      {
+        "filename": "0318_L2_1635604614_241-ex-239-goitre-nodule-cancer.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0318_L2_1635604614_241-ex-239-goitre-nodule-cancer.pdf"
+      },
+      {
+        "filename": "0325_L2_1635604644_242-ex-240-hyperthyroidie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0325_L2_1635604644_242-ex-240-hyperthyroidie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 37,
+    "intitule": "La région carotidienne : parois et contenu",
+    "edn_pdfs": [
+      {
+        "filename": "0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf"
+      },
+      {
+        "filename": "1304_L2_1635510000_220-ex-216-adenopathie-cervicale-superficielle.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1304_L2_1635510000_220-ex-216-adenopathie-cervicale-superficielle.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 38,
+    "intitule": "Le cæcum : configurations et rapports",
+    "edn_pdfs": [
+      {
+        "filename": "0804_L2_1636652001_356-ex-351-appendicite.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0804_L2_1636652001_356-ex-351-appendicite.pdf"
+      },
+      {
+        "filename": "0764_L2_1636650506_301-ex-298-ccr.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0764_L2_1636650506_301-ex-298-ccr.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 39,
+    "intitule": "La veine porte : constitution, trajet, rapports et terminaison",
+    "edn_pdfs": [
+      {
+        "filename": "0729_L2_1636103146_279-ex-276-cirrhose.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0729_L2_1636103146_279-ex-276-cirrhose.pdf"
+      },
+      {
+        "filename": "0737_L2_1636103201_280-ex-277-ascite.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0737_L2_1636103201_280-ex-277-ascite.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "ANAT",
+    "n": 40,
+    "intitule": "L'artère hypogastrique : origine, branches collatérales",
+    "edn_pdfs": [
+      {
+        "filename": "0419_L1_gyneco-obstetrique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0419_L1_gyneco-obstetrique.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 1,
+    "intitule": "Débit cardiaque : facteurs et régulation",
+    "edn_pdfs": [
+      {
+        "filename": "0051_L1_cardiologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0051_L1_cardiologie.pdf"
+      },
+      {
+        "filename": "0075_L2_1624282299_234-ex-232-insuffisance-cardiaquedocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0075_L2_1624282299_234-ex-232-insuffisance-cardiaquedocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 2,
+    "intitule": "Régulation de la pression sanguine artérielle (PSA) : facteurs et régulation",
+    "edn_pdfs": [
+      {
+        "filename": "0058_L2_1624282230_224-ex-221-hypertention-arterielle-de-ladultedocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0058_L2_1624282230_224-ex-221-hypertention-arterielle-de-ladultedocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 3,
+    "intitule": "Physiologie de la ventilation : mécanique ventilatoire, débits, volumes, capacités respiratoires, régulation",
+    "edn_pdfs": [
+      {
+        "filename": "1372_L1_pneumologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1372_L1_pneumologie.pdf"
+      },
+      {
+        "filename": "1456_L2_1637225035_bonus-efr-0-gds.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1456_L2_1637225035_bonus-efr-0-gds.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 4,
+    "intitule": "Transport des gaz du sang",
+    "edn_pdfs": [
+      {
+        "filename": "1372_L1_pneumologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1372_L1_pneumologie.pdf"
+      },
+      {
+        "filename": "1456_L2_1637225035_bonus-efr-0-gds.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1456_L2_1637225035_bonus-efr-0-gds.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 5,
+    "intitule": "Système rénine angiotensine et aldostérone",
+    "edn_pdfs": [
+      {
+        "filename": "0058_L2_1624282230_224-ex-221-hypertention-arterielle-de-ladultedocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0058_L2_1624282230_224-ex-221-hypertention-arterielle-de-ladultedocx.pdf"
+      },
+      {
+        "filename": "0983_L1_nephrologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0983_L1_nephrologie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 6,
+    "intitule": "Hormones thyroïdiennes : nature, origine, actions physiologiques et régulation de la sécrétion",
+    "edn_pdfs": [
+      {
+        "filename": "0325_L2_1635604644_242-ex-240-hyperthyroidie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0325_L2_1635604644_242-ex-240-hyperthyroidie.pdf"
+      },
+      {
+        "filename": "0330_L2_1635604686_243-ex-241-hypothyroidie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0330_L2_1635604686_243-ex-241-hypothyroidie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 7,
+    "intitule": "Hormones sexuelles : nature, origine, actions physiologiques, régulation de la sécrétion et exploration",
+    "edn_pdfs": [
+      {
+        "filename": "0466_L2_1626428978_035-ex-034-anomalies-du-cycles-menstruel.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0466_L2_1626428978_035-ex-034-anomalies-du-cycles-menstruel.pdf"
+      },
+      {
+        "filename": "0284_L2_1627142032_049-ex-047-puberte-normale-et-pathologique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0284_L2_1627142032_049-ex-047-puberte-normale-et-pathologique.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 8,
+    "intitule": "Marqueurs tumoraux : définition, classification, principes du dosage et signification",
+    "edn_pdfs": [
+      {
+        "filename": "1834_L2_1650803198_292-ex-289-diagnostic-des-cancers.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1834_L2_1650803198_292-ex-289-diagnostic-des-cancers.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 9,
+    "intitule": "Rein : filtration glomérulaire et fonctions tubulaires",
+    "edn_pdfs": [
+      {
+        "filename": "0983_L1_nephrologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0983_L1_nephrologie.pdf"
+      },
+      {
+        "filename": "1007_L2_1635511562_258-ex-255-elevation-de-la-creatininemie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1007_L2_1635511562_258-ex-255-elevation-de-la-creatininemie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 10,
+    "intitule": "Compartiments hydriques de l'organisme et leur régulation",
+    "edn_pdfs": [
+      {
+        "filename": "1033_L2_1635953026_267-ex-265-trouble-de-lequilibre-hydroelectrolytiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1033_L2_1635953026_267-ex-265-trouble-de-lequilibre-hydroelectrolytiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 11,
+    "intitule": "Fonction biliaire : sécrétion, excrétion et détoxication",
+    "edn_pdfs": [
+      {
+        "filename": "0723_L2_1636102932_278-ex-275-ictere.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0723_L2_1636102932_278-ex-275-ictere.pdf"
+      },
+      {
+        "filename": "0685_L1_HGO.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0685_L1_HGO.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 12,
+    "intitule": "Sécrétion gastrique : origine et régulation",
+    "edn_pdfs": [
+      {
+        "filename": "0709_L2_1636102416_272-ex-269-ugd.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0709_L2_1636102416_272-ex-269-ugd.pdf"
+      },
+      {
+        "filename": "0685_L1_HGO.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0685_L1_HGO.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 13,
+    "intitule": "Absorption intestinale : des glucides, des lipides, des protides, hydro électrolytique",
+    "edn_pdfs": [
+      {
+        "filename": "0752_L2_1636649514_285-ex-282-diarrhee-chronique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0752_L2_1636649514_285-ex-282-diarrhee-chronique.pdf"
+      },
+      {
+        "filename": "0685_L1_HGO.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0685_L1_HGO.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 14,
+    "intitule": "Motricité digestive : de l'œsophage, de l'estomac, de l'intestin et anorectale",
+    "edn_pdfs": [
+      {
+        "filename": "0718_L2_1636102497_273-ex-270-dysphagie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0718_L2_1636102497_273-ex-270-dysphagie.pdf"
+      },
+      {
+        "filename": "0685_L1_HGO.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0685_L1_HGO.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 15,
+    "intitule": "Equilibre acido-basique : régulation du pH et de l'équilibre acido-basique",
+    "edn_pdfs": [
+      {
+        "filename": "1456_L2_1637225035_bonus-efr-0-gds.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1456_L2_1637225035_bonus-efr-0-gds.pdf"
+      },
+      {
+        "filename": "1033_L2_1635953026_267-ex-265-trouble-de-lequilibre-hydroelectrolytiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1033_L2_1635953026_267-ex-265-trouble-de-lequilibre-hydroelectrolytiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 16,
+    "intitule": "Neurotransmission et neuromodulation : neuromédiateurs, récepteurs à action directe et récepteurs à protéines G",
+    "edn_pdfs": [
+      {
+        "filename": "1076_L1_neurologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1076_L1_neurologie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 17,
+    "intitule": "Actions biologiques des radiations ionisantes et radioprotection : actions physico-chimiques et cellulaires, effets déterministes, effets stochastiques, notions de radioprotection dans le secteur médical",
+    "edn_pdfs": [
+      {
+        "filename": "1819_L2_1636652507_180-ex-176-et-294-ex-291-traitement-des-cancers.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1819_L2_1636652507_180-ex-176-et-294-ex-291-traitement-des-cancers.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 18,
+    "intitule": "Immunité humorale : le lymphocyte B, les immunoglobulines et le complément",
+    "edn_pdfs": [
+      {
+        "filename": "0933_L1_medecine_interne.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0933_L1_medecine_interne.pdf"
+      },
+      {
+        "filename": "0945_L2_1630955891_192-ex-188-pathologies-auto-immunes.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0945_L2_1630955891_192-ex-188-pathologies-auto-immunes.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 19,
+    "intitule": "Immunité cellulaire : le lymphocyte T et les cytokines",
+    "edn_pdfs": [
+      {
+        "filename": "0933_L1_medecine_interne.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0933_L1_medecine_interne.pdf"
+      },
+      {
+        "filename": "0945_L2_1630955891_192-ex-188-pathologies-auto-immunes.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0945_L2_1630955891_192-ex-188-pathologies-auto-immunes.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 20,
+    "intitule": "Complexe Majeur d'Histocompatibilité : caractéristiques et propriétés",
+    "edn_pdfs": [
+      {
+        "filename": "0987_L2_1632417524_201-ex-197-transplantation-dorgane.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0987_L2_1632417524_201-ex-197-transplantation-dorgane.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 21,
+    "intitule": "Immunité anti-infectieuse",
+    "edn_pdfs": [
+      {
+        "filename": "0819_L1_infectieux.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0819_L1_infectieux.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 22,
+    "intitule": "Techniques cytogénétiques et leurs indications",
+    "edn_pdfs": [
+      {
+        "filename": "0478_L2_1627141574_045-ex-043-problemes-poses-par-les-maladies-genetiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0478_L2_1627141574_045-ex-043-problemes-poses-par-les-maladies-genetiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 23,
+    "intitule": "Chromosome : les anomalies chromosomiques et leurs mécanismes",
+    "edn_pdfs": [
+      {
+        "filename": "0478_L2_1627141574_045-ex-043-problemes-poses-par-les-maladies-genetiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0478_L2_1627141574_045-ex-043-problemes-poses-par-les-maladies-genetiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 24,
+    "intitule": "Différenciation et communication cellulaires : mécanismes cellulaires et moléculaires",
+    "edn_pdfs": [
+      {
+        "filename": "1816_L2_1636652256_293-ex-290-medecin-preleveur.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1816_L2_1636652256_293-ex-290-medecin-preleveur.pdf"
+      },
+      {
+        "filename": "1814_L2_1636652141_290-ex-287-epidemiologie-des-cancers.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1814_L2_1636652141_290-ex-287-epidemiologie-des-cancers.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 25,
+    "intitule": "Apoptose : mécanismes cellulaires et moléculaires",
+    "edn_pdfs": [
+      {
+        "filename": "1816_L2_1636652256_293-ex-290-medecin-preleveur.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1816_L2_1636652256_293-ex-290-medecin-preleveur.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 26,
+    "intitule": "Hématopoïèse : les facteurs de régulation",
+    "edn_pdfs": [
+      {
+        "filename": "0560_L1_hematologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0560_L1_hematologie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 27,
+    "intitule": "Hémolyse : mécanismes et méthodes d'exploration",
+    "edn_pdfs": [
+      {
+        "filename": "0573_L2_1634632334_213-ex-209-anemie-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0573_L2_1634632334_213-ex-209-anemie-chez-ladulte.pdf"
+      },
+      {
+        "filename": "0570_L2_1634632321_213-ex-209-anemie-chez-lenfant.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0570_L2_1634632321_213-ex-209-anemie-chez-lenfant.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 28,
+    "intitule": "Systèmes de groupes érythrocytaires et leurs applications : diagnostic, transfusion et transplantation",
+    "edn_pdfs": [
+      {
+        "filename": "0668_L2_1635091697_329-ex-325-transfusion-sanguine.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0668_L2_1635091697_329-ex-325-transfusion-sanguine.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 29,
+    "intitule": "Hémoglobines humaines : aspects biochimiques et génétiques",
+    "edn_pdfs": [
+      {
+        "filename": "0573_L2_1634632334_213-ex-209-anemie-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0573_L2_1634632334_213-ex-209-anemie-chez-ladulte.pdf"
+      },
+      {
+        "filename": "0570_L2_1634632321_213-ex-209-anemie-chez-lenfant.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0570_L2_1634632321_213-ex-209-anemie-chez-lenfant.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 30,
+    "intitule": "Hémostase : facteurs, mécanismes et méthodes d'exploration",
+    "edn_pdfs": [
+      {
+        "filename": "0605_L2_1634632612_216-ex-212-syndrome-hemorragique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0605_L2_1634632612_216-ex-212-syndrome-hemorragique.pdf"
+      },
+      {
+        "filename": "0676_L2_1635091760_330-ex-326-antithrombotique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0676_L2_1635091760_330-ex-326-antithrombotique.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 31,
+    "intitule": "Métabolisme phosphocalcique : physiologie, régulation et exploration",
+    "edn_pdfs": [
+      {
+        "filename": "1069_L2_1641476080_268-ex-266-calcium.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1069_L2_1641476080_268-ex-266-calcium.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 32,
+    "intitule": "Equilibre hydro électrolytique : physiologie, régulation et exploration",
+    "edn_pdfs": [
+      {
+        "filename": "1033_L2_1635953026_267-ex-265-trouble-de-lequilibre-hydroelectrolytiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1033_L2_1635953026_267-ex-265-trouble-de-lequilibre-hydroelectrolytiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 33,
+    "intitule": "Régulation de la glycémie : physiologie et explorations biochimiques des hyper et des hypoglycémies",
+    "edn_pdfs": [
+      {
+        "filename": "0365_L2_1650804314_247-ex-245-diabete.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0365_L2_1650804314_247-ex-245-diabete.pdf"
+      },
+      {
+        "filename": "0312_L2_1635604541_240-ex-238-hypoglycemie-chez-ladulte-et-lenfant.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0312_L2_1635604541_240-ex-238-hypoglycemie-chez-ladulte-et-lenfant.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 34,
+    "intitule": "Cétogenèse : physiologie et exploration",
+    "edn_pdfs": [
+      {
+        "filename": "0365_L2_1650804314_247-ex-245-diabete.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0365_L2_1650804314_247-ex-245-diabete.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 35,
+    "intitule": "Ammoniogenèse et uréogenèse : physiologie, régulation et exploration",
+    "edn_pdfs": [
+      {
+        "filename": "0729_L2_1636103146_279-ex-276-cirrhose.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0729_L2_1636103146_279-ex-276-cirrhose.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 36,
+    "intitule": "Lipoprotéines plasmatiques : structure, métabolisme, exploration et classification des hyperlipoprotéinémies",
+    "edn_pdfs": [
+      {
+        "filename": "0131_L2_1635604437_223-ex-220-dyslipidemie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0131_L2_1635604437_223-ex-220-dyslipidemie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 37,
+    "intitule": "Bilirubine : métabolisme, méthode d'étude et classification des ictères",
+    "edn_pdfs": [
+      {
+        "filename": "0723_L2_1636102932_278-ex-275-ictere.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0723_L2_1636102932_278-ex-275-ictere.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 38,
+    "intitule": "Médullosurrénale : physiologie et exploration",
+    "edn_pdfs": [
+      {
+        "filename": "0341_L2_1635604755_245-ex-243-insuffisance-surrenale.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0341_L2_1635604755_245-ex-243-insuffisance-surrenale.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 39,
+    "intitule": "Axe hypothalamo-hypophysaire : physiologie et exploration",
+    "edn_pdfs": [
+      {
+        "filename": "0334_L2_1635604730_244-ex-242-adenome-hypophysaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0334_L2_1635604730_244-ex-242-adenome-hypophysaire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 40,
+    "intitule": "Physiologie de la corticosurrénale : glucocorticoïdes, minéralocorticoïdes et androgènes corticosurrénaliens",
+    "edn_pdfs": [
+      {
+        "filename": "0341_L2_1635604755_245-ex-243-insuffisance-surrenale.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0341_L2_1635604755_245-ex-243-insuffisance-surrenale.pdf"
+      },
+      {
+        "filename": "0311_L2_1635511408_bonus-exploration-de-laxe-corticotrope.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0311_L2_1635511408_bonus-exploration-de-laxe-corticotrope.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 41,
+    "intitule": "Enzymes sériques : enzymes de la cytolyse hépatique, enzymes de la cholestase, enzymes cardiaques et musculaires et enzymes pancréatiques",
+    "edn_pdfs": [
+      {
+        "filename": "0685_L1_HGO.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0685_L1_HGO.pdf"
+      },
+      {
+        "filename": "0933_L2_1630955427_185-ex-181-reaction-inflammatoire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0933_L2_1630955427_185-ex-181-reaction-inflammatoire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 42,
+    "intitule": "Acides nucléiques (ADN et ARN) : structure, rôle et différentes anomalies",
+    "edn_pdfs": [
+      {
+        "filename": "0478_L2_1627141574_045-ex-043-problemes-poses-par-les-maladies-genetiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0478_L2_1627141574_045-ex-043-problemes-poses-par-les-maladies-genetiques.pdf"
+      },
+      {
+        "filename": "1816_L2_1636652256_293-ex-290-medecin-preleveur.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1816_L2_1636652256_293-ex-290-medecin-preleveur.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 43,
+    "intitule": "Amniocentèse et choriocentèse dans le diagnostic prénatal : principe, technique et indications",
+    "edn_pdfs": [
+      {
+        "filename": "0478_L2_1627141574_045-ex-043-problemes-poses-par-les-maladies-genetiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0478_L2_1627141574_045-ex-043-problemes-poses-par-les-maladies-genetiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "BIO",
+    "n": 44,
+    "intitule": "Exploration biologique de l'inflammation : vitesse de sédimentation et protéines de l'inflammation",
+    "edn_pdfs": [
+      {
+        "filename": "0933_L2_1630955427_185-ex-181-reaction-inflammatoire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0933_L2_1630955427_185-ex-181-reaction-inflammatoire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 1,
+    "intitule": "Risque cardio-vasculaire : facteurs et conséquences pathologiques",
+    "edn_pdfs": [
+      {
+        "filename": "0056_L2_1624282211_222-ex-219-facteurs-de-risque-cardiovasculairesdocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0056_L2_1624282211_222-ex-219-facteurs-de-risque-cardiovasculairesdocx.pdf"
+      },
+      {
+        "filename": "0054_L2_1624282195_221-ex-218-atheromedocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0054_L2_1624282195_221-ex-218-atheromedocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 2,
+    "intitule": "Rhumatisme articulaire aigu : physiopathologie, diagnostic, traitement et prévention",
+    "edn_pdfs": [
+      {
+        "filename": "1645_L2_1642163481_200-ex-196-arthrite.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1645_L2_1642163481_200-ex-196-arthrite.pdf"
+      },
+      {
+        "filename": "0065_L2_1624282290_233-ex-231-valvulopathiesdocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0065_L2_1624282290_233-ex-231-valvulopathiesdocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 3,
+    "intitule": "Les valvulopathies mitrales : rétrécissement mitral et insuffisance mitrale (diagnostic et prise en charge)",
+    "edn_pdfs": [
+      {
+        "filename": "0065_L2_1624282290_233-ex-231-valvulopathiesdocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0065_L2_1624282290_233-ex-231-valvulopathiesdocx.pdf"
+      },
+      {
+        "filename": "0051_L2_1624282187_153-ex-150-surveillances-des-porteurs-de-valvesdocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0051_L2_1624282187_153-ex-150-surveillances-des-porteurs-de-valvesdocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 4,
+    "intitule": "Les valvulopathies aortiques : rétrécissement aortique et insuffisance aortique (diagnostic et prise en charge)",
+    "edn_pdfs": [
+      {
+        "filename": "0065_L2_1624282290_233-ex-231-valvulopathiesdocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0065_L2_1624282290_233-ex-231-valvulopathiesdocx.pdf"
+      },
+      {
+        "filename": "0051_L2_1624282187_153-ex-150-surveillances-des-porteurs-de-valvesdocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0051_L2_1624282187_153-ex-150-surveillances-des-porteurs-de-valvesdocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 5,
+    "intitule": "Endocardites infectieuses : physiopathologie, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0117_L2_1631355054_152-ex-149-endocardite-infectieuse.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0117_L2_1631355054_152-ex-149-endocardite-infectieuse.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 6,
+    "intitule": "Insuffisance cardiaque : physiopathologie, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0075_L2_1624282299_234-ex-232-insuffisance-cardiaquedocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0075_L2_1624282299_234-ex-232-insuffisance-cardiaquedocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 7,
+    "intitule": "Péricardites aiguës et chroniques : diagnostic, traitement, évolution",
+    "edn_pdfs": [
+      {
+        "filename": "0124_L2_1633190350_235-ex-233-pericardite-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0124_L2_1633190350_235-ex-233-pericardite-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 8,
+    "intitule": "Cœur pulmonaire chronique : diagnostic et prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "1420_L2_1635509741_208-ex-204-insuffisance-respiratoire-chronique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1420_L2_1635509741_208-ex-204-insuffisance-respiratoire-chronique.pdf"
+      },
+      {
+        "filename": "1459_L2_1637234548_222-htap.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1459_L2_1637234548_222-htap.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 9,
+    "intitule": "L'hypertension artérielle (HTA) de l'adulte : épidémiologie, physiopathologie, classification, étiologies des HTA secondaires, traitement de l'HTA essentielle, évolution. HTA de la grossesse : diagnostic, complications, traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0058_L2_1624282230_224-ex-221-hypertention-arterielle-de-ladultedocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0058_L2_1624282230_224-ex-221-hypertention-arterielle-de-ladultedocx.pdf"
+      },
+      {
+        "filename": "0296_L2_1634125460_224-ex-221-hta-secondaire-endocrinienne.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0296_L2_1634125460_224-ex-221-hta-secondaire-endocrinienne.pdf"
+      },
+      {
+        "filename": "0435_L2_1625938591_344-ex-339-preeclampsie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0435_L2_1625938591_344-ex-339-preeclampsie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 10,
+    "intitule": "Thromboses veineuses des membres inférieurs : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0562_L2_1609069253_226-ex-224-thrombose-recidivante.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0562_L2_1609069253_226-ex-224-thrombose-recidivante.pdf"
+      },
+      {
+        "filename": "1431_L2_1635511793_226-ex-224-mtv-ep.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1431_L2_1635511793_226-ex-224-mtv-ep.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 11,
+    "intitule": "Douleur abdominale chronique chez l'adulte et l'enfant : conduite diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "0702_L2_1636102289_269-ex-267-douleurs-abdominales-et-lombaires-aigues.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0702_L2_1636102289_269-ex-267-douleurs-abdominales-et-lombaires-aigues.pdf"
+      },
+      {
+        "filename": "0685_L1_HGO.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0685_L1_HGO.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 12,
+    "intitule": "Reflux gastro-œsophagien non compliqué du nourrisson, de l'enfant et de l'adulte : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0704_L2_1636102346_271-ex-268-rgo.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0704_L2_1636102346_271-ex-268-rgo.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 13,
+    "intitule": "Maladie ulcéreuse : physiopathologie et conséquences thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0709_L2_1636102416_272-ex-269-ugd.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0709_L2_1636102416_272-ex-269-ugd.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 14,
+    "intitule": "Hépatites virales : hépatite aiguë virale B, virus de l'hépatite C, hépatites chroniques actives",
+    "edn_pdfs": [
+      {
+        "filename": "0685_L2_1630914122_167-ex-163-hepatites-virales.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0685_L2_1630914122_167-ex-163-hepatites-virales.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 15,
+    "intitule": "Cirrhoses du foie : diagnostic et principales complications",
+    "edn_pdfs": [
+      {
+        "filename": "0729_L2_1636103146_279-ex-276-cirrhose.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0729_L2_1636103146_279-ex-276-cirrhose.pdf"
+      },
+      {
+        "filename": "0737_L2_1636103201_280-ex-277-ascite.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0737_L2_1636103201_280-ex-277-ascite.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 16,
+    "intitule": "Ictère cholestatique : conduite diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "0723_L2_1636102932_278-ex-275-ictere.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0723_L2_1636102932_278-ex-275-ictere.pdf"
+      },
+      {
+        "filename": "0811_L2_1638810763_277-ex-274-lithiase-biliaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0811_L2_1638810763_277-ex-274-lithiase-biliaire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 17,
+    "intitule": "Diarrhée chronique chez l'adulte et l'enfant : conduite diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "0752_L2_1636649514_285-ex-282-diarrhee-chronique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0752_L2_1636649514_285-ex-282-diarrhee-chronique.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 18,
+    "intitule": "Parasitoses digestives chez l'adulte et l'enfant : diagnostic, traitement et prévention",
+    "edn_pdfs": [
+      {
+        "filename": "0896_L2_1638291081_172-ex-168-parasitoses.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0896_L2_1638291081_172-ex-168-parasitoses.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 19,
+    "intitule": "Colites inflammatoires chroniques non compliquées : RCH et maladie de Crohn (diagnostic et traitement)",
+    "edn_pdfs": [
+      {
+        "filename": "0743_L2_1636649189_282-ex-279-mici.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0743_L2_1636649189_282-ex-279-mici.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 20,
+    "intitule": "Tuberculose péritonéale : diagnostic, évolution et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1399_L2_1635509444_159-ex-155-tuberculose.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1399_L2_1635509444_159-ex-155-tuberculose.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 21,
+    "intitule": "Lymphomes digestifs : physiopathologie, classification et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0657_L2_1635062087_319-ex-316-lymphomes.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0657_L2_1635062087_319-ex-316-lymphomes.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 22,
+    "intitule": "Fièvre typhoïde : épidémiologie, diagnostic, traitement et prévention",
+    "edn_pdfs": [
+      {
+        "filename": "0857_L2_1630914563_176-ex-172-diarrhee-infectieuses-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0857_L2_1630914563_176-ex-172-diarrhee-infectieuses-chez-ladulte.pdf"
+      },
+      {
+        "filename": "0860_L2_1630939946_item-179-ex-175-risques-sanitaires-lies-a-leau-et-a-lalimentation-toxi-infections-alimentaires-.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0860_L2_1630939946_item-179-ex-175-risques-sanitaires-lies-a-leau-et-a-lalimentation-toxi-infections-alimentaires-.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 23,
+    "intitule": "Brucellose : épidémiologie, diagnostic, traitement et prévention",
+    "edn_pdfs": [
+      {
+        "filename": "0840_L2_1630914319_173-ex-169-zoonoses-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0840_L2_1630914319_173-ex-169-zoonoses-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 24,
+    "intitule": "Choléra : épidémiologie, diagnostic, traitement et prévention",
+    "edn_pdfs": [
+      {
+        "filename": "0857_L2_1630914563_176-ex-172-diarrhee-infectieuses-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0857_L2_1630914563_176-ex-172-diarrhee-infectieuses-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 25,
+    "intitule": "Leptospirose ictéro-hémorragique : épidémiologie, diagnostic, traitement et prévention",
+    "edn_pdfs": [
+      {
+        "filename": "0840_L2_1630914319_173-ex-169-zoonoses-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0840_L2_1630914319_173-ex-169-zoonoses-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 26,
+    "intitule": "Fièvre boutonneuse méditerranéenne : épidémiologie, diagnostic, traitement et prévention",
+    "edn_pdfs": [
+      {
+        "filename": "0840_L2_1630914319_173-ex-169-zoonoses-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0840_L2_1630914319_173-ex-169-zoonoses-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 27,
+    "intitule": "Lèpre : épidémiologie, classification, diagnostic et principes de prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "0847_L2_1630914359_174-ex-170-pathologie-infectieuse-chez-les-migrants.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0847_L2_1630914359_174-ex-170-pathologie-infectieuse-chez-les-migrants.pdf"
+      },
+      {
+        "filename": "0849_L2_1630914467_175-ex-170-171-pathologies-infectieuses-du-migrant-et-de-lenfant-voyageur.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0849_L2_1630914467_175-ex-170-171-pathologies-infectieuses-du-migrant-et-de-lenfant-voyageur.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 28,
+    "intitule": "Hyper-éosinophilie : démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "0621_L2_1634632714_218-ex-214-eosinophilie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0621_L2_1634632714_218-ex-214-eosinophilie.pdf"
+      },
+      {
+        "filename": "0896_L2_1638291081_172-ex-168-parasitoses.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0896_L2_1638291081_172-ex-168-parasitoses.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 29,
+    "intitule": "Bilharziose uro-génitale : diagnostic, traitement et prévention",
+    "edn_pdfs": [
+      {
+        "filename": "0896_L2_1638291081_172-ex-168-parasitoses.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0896_L2_1638291081_172-ex-168-parasitoses.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 30,
+    "intitule": "Infection à VIH : épidémiologie, diagnostic, classification, marqueurs pronostiques, prévention. Particularités chez la femme enceinte et le nouveau-né",
+    "edn_pdfs": [
+      {
+        "filename": "0908_L2_1638979671_169-ex-165-vih.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0908_L2_1638979671_169-ex-165-vih.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 31,
+    "intitule": "Paludisme : épidémiologie, diagnostic, traitement et prévention",
+    "edn_pdfs": [
+      {
+        "filename": "0835_L2_1630914229_170-ex-166-paludisme.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0835_L2_1630914229_170-ex-166-paludisme.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 32,
+    "intitule": "Toxoplasmose : interprétation des résultats sérologiques, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0896_L2_1638291081_172-ex-168-parasitoses.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0896_L2_1638291081_172-ex-168-parasitoses.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 33,
+    "intitule": "Fièvres prolongées inexpliquées : définition et démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "0942_L2_1630955891_190-ex-186-fievre-prolongee.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0942_L2_1630955891_190-ex-186-fievre-prolongee.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 34,
+    "intitule": "Infections nosocomiales : diagnostic et mesures de prévention",
+    "edn_pdfs": [
+      {
+        "filename": "0865_L2_1631352272_145-ex-142-surveillance-des-maladies-infectieuses-transmissibles.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0865_L2_1631352272_145-ex-142-surveillance-des-maladies-infectieuses-transmissibles.pdf"
+      },
+      {
+        "filename": "0881_L2_1635680184_177-ex-173-prescription-and-surveillance-des-anti-infectieux-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0881_L2_1635680184_177-ex-173-prescription-and-surveillance-des-anti-infectieux-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 35,
+    "intitule": "Infection urinaire : physiopathologie, diagnostic, traitement et évolution",
+    "edn_pdfs": [
+      {
+        "filename": "1053_L2_1636979549_161-ex-157-infections-urinaires.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1053_L2_1636979549_161-ex-157-infections-urinaires.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 36,
+    "intitule": "Antibiotiques : modes d'action, mécanisme de résistance, classification, effets indésirables et règles de prescription",
+    "edn_pdfs": [
+      {
+        "filename": "0881_L2_1635680184_177-ex-173-prescription-and-surveillance-des-anti-infectieux-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0881_L2_1635680184_177-ex-173-prescription-and-surveillance-des-anti-infectieux-chez-ladulte.pdf"
+      },
+      {
+        "filename": "0888_L2_1635680213_177-ex-173-prescription-and-surveillance-des-anti-infectieux-chez-lenfant.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0888_L2_1635680213_177-ex-173-prescription-and-surveillance-des-anti-infectieux-chez-lenfant.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 37,
+    "intitule": "Syphilis primo-secondaire : interprétation des résultats sérologiques, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0262_L2_1638789271_162-ex-158-ist.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0262_L2_1638789271_162-ex-158-ist.pdf"
+      },
+      {
+        "filename": "0505_L2_1629754017_162-ex-158-infection-sexuellement-transmissible.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0505_L2_1629754017_162-ex-158-infection-sexuellement-transmissible.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 38,
+    "intitule": "Ulcération génitale : démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "0262_L2_1638789271_162-ex-158-ist.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0262_L2_1638789271_162-ex-158-ist.pdf"
+      },
+      {
+        "filename": "0505_L2_1629754017_162-ex-158-infection-sexuellement-transmissible.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0505_L2_1629754017_162-ex-158-infection-sexuellement-transmissible.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 39,
+    "intitule": "Prurits chez l'adulte et l'enfant : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0195_L2_1625307193_116-ex-113-prurit.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0195_L2_1625307193_116-ex-113-prurit.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 40,
+    "intitule": "Urticaire chez l'adulte et l'enfant : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0241_L2_1625684005_187-ex-183-hypersensibilite-et-allergie-cutaneomuqueuse.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0241_L2_1625684005_187-ex-183-hypersensibilite-et-allergie-cutaneomuqueuse.pdf"
+      },
+      {
+        "filename": "0255_L2_1635510602_338-ex-333-choc-anaphylactique-et-oedeme-de-quincke.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0255_L2_1635510602_338-ex-333-choc-anaphylactique-et-oedeme-de-quincke.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 41,
+    "intitule": "Onychomycoses : épidémiologie, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0267_L2_1638789271_155-ex-152-infections-cutan-muqueuse-bactiennes-0-mycosiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0267_L2_1638789271_155-ex-152-infections-cutan-muqueuse-bactiennes-0-mycosiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 42,
+    "intitule": "Ulcère de jambe : diagnostic, prise en charge et évolution",
+    "edn_pdfs": [
+      {
+        "filename": "0198_L2_1625683053_228-ex-226-ulcere-de-jambe.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0198_L2_1625683053_228-ex-226-ulcere-de-jambe.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 43,
+    "intitule": "Mélanomes malins : épidémiologie, dépistage, diagnostic, évolution et pronostic",
+    "edn_pdfs": [
+      {
+        "filename": "0207_L2_1625683345_302-ex-299-tumeurs-cutanees.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0207_L2_1625683345_302-ex-299-tumeurs-cutanees.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 44,
+    "intitule": "Erythème noueux : démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "0184_L2_1624283698_114-ex-112-and-160-exanthemes-and-erythrodermies.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0184_L2_1624283698_114-ex-112-and-160-exanthemes-and-erythrodermies.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 45,
+    "intitule": "Anémies : démarche diagnostique et classification ; anémies hémolytiques ; anémies mégaloblastiques",
+    "edn_pdfs": [
+      {
+        "filename": "0573_L2_1634632334_213-ex-209-anemie-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0573_L2_1634632334_213-ex-209-anemie-chez-ladulte.pdf"
+      },
+      {
+        "filename": "0570_L2_1634632321_213-ex-209-anemie-chez-lenfant.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0570_L2_1634632321_213-ex-209-anemie-chez-lenfant.pdf"
+      },
+      {
+        "filename": "0560_L1_hematologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0560_L1_hematologie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 46,
+    "intitule": "Syndromes myéloprolifératifs : définition et classification",
+    "edn_pdfs": [
+      {
+        "filename": "0647_L2_1635062018_317-ex-314-syndromes-myeloproliferatifs-chroniques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0647_L2_1635062018_317-ex-314-syndromes-myeloproliferatifs-chroniques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 47,
+    "intitule": "Syndromes lymphoprolifératifs : gammapathie monoclonale, leucémie lymphoïde chronique, myélome multiple",
+    "edn_pdfs": [
+      {
+        "filename": "0662_L2_1635062115_320-ex-317-myelome.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0662_L2_1635062115_320-ex-317-myelome.pdf"
+      },
+      {
+        "filename": "0653_L2_1635062054_318-ex-315-llc.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0653_L2_1635062054_318-ex-315-llc.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 48,
+    "intitule": "Leucémies aiguës : circonstances de découverte, moyens diagnostiques et facteurs pronostiques",
+    "edn_pdfs": [
+      {
+        "filename": "0639_L2_1635061891_315-ex-312-leucemie-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0639_L2_1635061891_315-ex-312-leucemie-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 49,
+    "intitule": "Lymphomes Hodgkiniens et non Hodgkiniens : circonstances de découverte, diagnostic et classification",
+    "edn_pdfs": [
+      {
+        "filename": "0657_L2_1635062087_319-ex-316-lymphomes.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0657_L2_1635062087_319-ex-316-lymphomes.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 50,
+    "intitule": "Purpura : démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "0599_L2_1634632557_215-ex-211-purpura-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0599_L2_1634632557_215-ex-211-purpura-chez-ladulte.pdf"
+      },
+      {
+        "filename": "0603_L2_1634632612_215-ex-211-purpura-chez-lenfant.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0603_L2_1634632612_215-ex-211-purpura-chez-lenfant.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 51,
+    "intitule": "Pancytopénie : démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "0564_L2_1634720626_212-ex-208-hemogrammegchez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0564_L2_1634720626_212-ex-208-hemogrammegchez-ladulte.pdf"
+      },
+      {
+        "filename": "0636_L2_1634891584_296-ex-293-agranulocytose-medicamenteuse.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0636_L2_1634891584_296-ex-293-agranulocytose-medicamenteuse.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 52,
+    "intitule": "Chimiothérapie anti-cancéreuse : modalités de surveillance et complications",
+    "edn_pdfs": [
+      {
+        "filename": "1819_L2_1636652507_180-ex-176-et-294-ex-291-traitement-des-cancers.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1819_L2_1636652507_180-ex-176-et-294-ex-291-traitement-des-cancers.pdf"
+      },
+      {
+        "filename": "0624_L2_1634720626_202-ex-198-biotherapie-et-therapie-ciblee.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0624_L2_1634720626_202-ex-198-biotherapie-et-therapie-ciblee.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 53,
+    "intitule": "Radiothérapie : principes et effets indésirables",
+    "edn_pdfs": [
+      {
+        "filename": "1819_L2_1636652507_180-ex-176-et-294-ex-291-traitement-des-cancers.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1819_L2_1636652507_180-ex-176-et-294-ex-291-traitement-des-cancers.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 54,
+    "intitule": "Amyloïdose : physiopathologie, classification et formes cliniques",
+    "edn_pdfs": [
+      {
+        "filename": "0962_L2_1637224883_217-amylose.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0962_L2_1637224883_217-amylose.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 55,
+    "intitule": "Maladie lupique : diagnostic et principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0969_L2_1638863674_194-ex-190-lupus-sapl.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0969_L2_1638863674_194-ex-190-lupus-sapl.pdf"
+      },
+      {
+        "filename": "0945_L2_1630955891_192-ex-188-pathologies-auto-immunes.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0945_L2_1630955891_192-ex-188-pathologies-auto-immunes.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 56,
+    "intitule": "Dermato-polymyosites : classification, diagnostic et principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0945_L2_1630955891_192-ex-188-pathologies-auto-immunes.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0945_L2_1630955891_192-ex-188-pathologies-auto-immunes.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 57,
+    "intitule": "Vascularites nécrosantes : diagnostic et classifications",
+    "edn_pdfs": [
+      {
+        "filename": "0949_L2_1630955970_193-ex-189-vascularites-systemiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0949_L2_1630955970_193-ex-189-vascularites-systemiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 58,
+    "intitule": "Maladie de Behçet : physiopathologie, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0949_L2_1630955970_193-ex-189-vascularites-systemiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0949_L2_1630955970_193-ex-189-vascularites-systemiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 59,
+    "intitule": "Spondylodiscite : démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "1085_L2_1629313469_094-270-ex-092-268-rachilagies.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1085_L2_1629313469_094-270-ex-092-268-rachilagies.pdf"
+      },
+      {
+        "filename": "1697_L2_1643642404_156-ex-153-infections-osteo-articulaires.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1697_L2_1643642404_156-ex-153-infections-osteo-articulaires.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 60,
+    "intitule": "Polyarthrite évoluant depuis plus de 3 mois : démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "1645_L2_1642163481_200-ex-196-arthrite.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1645_L2_1642163481_200-ex-196-arthrite.pdf"
+      },
+      {
+        "filename": "1596_L1_rhumato-orthopedie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1596_L1_rhumato-orthopedie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 61,
+    "intitule": "Spondylarthropathie : démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "1653_L2_1642164385_197-ex-193-spondylarthrite-ankylosante.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1653_L2_1642164385_197-ex-193-spondylarthrite-ankylosante.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 62,
+    "intitule": "Polyarthrite rhumatoïde : diagnostic, principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1596_L2_1630956139_196-ex-192-polyarthrite-rhumatoide.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1596_L2_1630956139_196-ex-192-polyarthrite-rhumatoide.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 63,
+    "intitule": "Ostéoporose : physiopathologie, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1660_L2_1642165029_128-ex-124-osteopathies-fragilisantes.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1660_L2_1642165029_128-ex-124-osteopathies-fragilisantes.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 64,
+    "intitule": "Ostéomalacie : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1660_L2_1642165029_128-ex-124-osteopathies-fragilisantes.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1660_L2_1642165029_128-ex-124-osteopathies-fragilisantes.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 65,
+    "intitule": "Anti-inflammatoires non stéroïdiens : mécanismes d'action, classification et principaux effets indésirables",
+    "edn_pdfs": [
+      {
+        "filename": "1671_L2_1642165472_330-ex-326-corticoides-et-ains.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1671_L2_1642165472_330-ex-326-corticoides-et-ains.pdf"
+      },
+      {
+        "filename": "1643_L2_1639334067_135-ex-132-therapeutiques-antalgiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1643_L2_1639334067_135-ex-132-therapeutiques-antalgiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 66,
+    "intitule": "Corticothérapie au long cours : règles de prescription et effets secondaires",
+    "edn_pdfs": [
+      {
+        "filename": "1671_L2_1642165472_330-ex-326-corticoides-et-ains.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1671_L2_1642165472_330-ex-326-corticoides-et-ains.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 67,
+    "intitule": "Goutte : physiopathologie, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1647_L2_1642163837_198-ex-194-arthropathie-microcristalline.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1647_L2_1642163837_198-ex-194-arthropathie-microcristalline.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 68,
+    "intitule": "Hyperparathyroïdies : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1069_L2_1641476080_268-ex-266-calcium.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1069_L2_1641476080_268-ex-266-calcium.pdf"
+      },
+      {
+        "filename": "0281_L1_endocrino-diabetologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0281_L1_endocrino-diabetologie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 69,
+    "intitule": "Hyperthyroïdies : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0325_L2_1635604644_242-ex-240-hyperthyroidie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0325_L2_1635604644_242-ex-240-hyperthyroidie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 70,
+    "intitule": "Hypothyroïdies : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0330_L2_1635604686_243-ex-241-hypothyroidie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0330_L2_1635604686_243-ex-241-hypothyroidie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 71,
+    "intitule": "Goitre et nodule de la thyroïde : conduite diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "0318_L2_1635604614_241-ex-239-goitre-nodule-cancer.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0318_L2_1635604614_241-ex-239-goitre-nodule-cancer.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 72,
+    "intitule": "Hypercorticismes : physiopathologie, diagnostic et principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0341_L2_1635604755_245-ex-243-insuffisance-surrenale.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0341_L2_1635604755_245-ex-243-insuffisance-surrenale.pdf"
+      },
+      {
+        "filename": "0311_L2_1635511408_bonus-exploration-de-laxe-corticotrope.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0311_L2_1635511408_bonus-exploration-de-laxe-corticotrope.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 73,
+    "intitule": "Insuffisances surrénales lentes : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0341_L2_1635604755_245-ex-243-insuffisance-surrenale.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0341_L2_1635604755_245-ex-243-insuffisance-surrenale.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 74,
+    "intitule": "Dysfonctionnements érectiles : conduite diagnostique et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1869_L2_1633522510_126-ex-122-trouble-de-lerection.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1869_L2_1633522510_126-ex-122-trouble-de-lerection.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 75,
+    "intitule": "Diabète sucré chez l'enfant, l'adulte et au cours de la grossesse : classification, physiopathologie, diagnostic, complications et principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0365_L2_1650804314_247-ex-245-diabete.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0365_L2_1650804314_247-ex-245-diabete.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 76,
+    "intitule": "Hyperlipidémies : diagnostic et prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "0131_L2_1635604437_223-ex-220-dyslipidemie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0131_L2_1635604437_223-ex-220-dyslipidemie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 77,
+    "intitule": "Infections broncho-pulmonaires non tuberculeuses du nourrisson, de l'enfant et de l'adulte : diagnostic, traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1464_L2_1639045210_154-ex-151-infections-broncho-pulmonaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1464_L2_1639045210_154-ex-151-infections-broncho-pulmonaire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 78,
+    "intitule": "Grippe : épidémiologie, diagnostic, traitement et prévention",
+    "edn_pdfs": [
+      {
+        "filename": "0832_L2_1629754251_166-ex-162-grippe.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0832_L2_1629754251_166-ex-162-grippe.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 79,
+    "intitule": "Tuberculose : épidémiologie et prévention ; primo-infection ; formes pulmonaires ; méningite tuberculeuse ; schémas thérapeutiques au Maroc",
+    "edn_pdfs": [
+      {
+        "filename": "1399_L2_1635509444_159-ex-155-tuberculose.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1399_L2_1635509444_159-ex-155-tuberculose.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 80,
+    "intitule": "Asthme : physiopathologie, diagnostic et prise en charge thérapeutique",
+    "edn_pdfs": [
+      {
+        "filename": "1409_L2_1635509554_188-ex-184-asthme.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1409_L2_1635509554_188-ex-184-asthme.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 81,
+    "intitule": "Pleurésie séro-fibrineuse : conduite diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "1451_L2_1636201371_206-ex-202-epanchement-pleural.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1451_L2_1636201371_206-ex-202-epanchement-pleural.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 82,
+    "intitule": "Sarcoïdose médiastino-pulmonaire : classification et bilan d'extension",
+    "edn_pdfs": [
+      {
+        "filename": "0978_L2_1642347790_211-ex-207-sarcoidose.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0978_L2_1642347790_211-ex-207-sarcoidose.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 83,
+    "intitule": "Syndrome médiastinal : démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "1476_L2_1640267085_207-ex-203-opacite-et-masses-intra-thoracique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1476_L2_1640267085_207-ex-203-opacite-et-masses-intra-thoracique.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 84,
+    "intitule": "Impact de l'environnement sur l'appareil respiratoire : tabagisme, pollution de l'air, pathologie respiratoire relevant de la médecine du travail",
+    "edn_pdfs": [
+      {
+        "filename": "1423_L2_1635509799_209-ex-205-bronchopneumopathie-chronique-obstructive.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1423_L2_1635509799_209-ex-205-bronchopneumopathie-chronique-obstructive.pdf"
+      },
+      {
+        "filename": "1577_L2_1635093570_075-ex-073-addiction-au-tabac.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1577_L2_1635093570_075-ex-073-addiction-au-tabac.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 85,
+    "intitule": "Œdèmes des membres inférieurs : démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "1004_L2_1635511532_257-ex-254-omi.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1004_L2_1635511532_257-ex-254-omi.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 86,
+    "intitule": "Protéinuries : physiopathologie, classification et démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "1016_L2_1635953007_259-ex-256-proteinurie-et-syndrome-nephrotique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1016_L2_1635953007_259-ex-256-proteinurie-et-syndrome-nephrotique.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 87,
+    "intitule": "Insuffisance rénale chronique : diagnostic et principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1010_L2_1635698271_264-ex-261-insuffisance-renale-chronique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1010_L2_1635698271_264-ex-261-insuffisance-renale-chronique.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 88,
+    "intitule": "Les diurétiques : prescription et effets indésirables",
+    "edn_pdfs": [
+      {
+        "filename": "0095_L2_1624282368_330-ex-326-diuretiquedocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0095_L2_1624282368_330-ex-326-diuretiquedocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 89,
+    "intitule": "Neuropathie périphérique : conduite diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "1100_L2_1629313556_096-ex-094-neuropathies-peripheriques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1100_L2_1629313556_096-ex-094-neuropathies-peripheriques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 90,
+    "intitule": "Epilepsies : classification et principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1115_L2_1629392894_105-ex-103-epilepsie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1115_L2_1629392894_105-ex-103-epilepsie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 91,
+    "intitule": "Tremblement des extrémités : démarche diagnostique et principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1127_L2_1629393705_107-ex-105-mouvements-anormaux.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1127_L2_1629393705_107-ex-105-mouvements-anormaux.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 92,
+    "intitule": "Syndromes parkinsoniens : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1155_L2_1635508491_106-ex-104-maladie-de-parkinson.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1155_L2_1635508491_106-ex-104-maladie-de-parkinson.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 93,
+    "intitule": "Syndrome myasthénique : physiopathologie, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1108_L2_1629313657_098-ex-096-myasthenie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1108_L2_1629313657_098-ex-096-myasthenie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 94,
+    "intitule": "Sclérose en plaques : démarche diagnostique et prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "1142_L2_1633521875_104-ex-102-sclerose-en-plaques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1142_L2_1633521875_104-ex-102-sclerose-en-plaques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 95,
+    "intitule": "Vertige : conduite diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "1295_L2_1635508449_103-ex-101-vertige.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1295_L2_1635508449_103-ex-101-vertige.pdf"
+      },
+      {
+        "filename": "1137_L2_1633190679_109-ex-107-trouble-de-la-marche-et-de-lequilibre.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1137_L2_1633190679_109-ex-107-trouble-de-la-marche-et-de-lequilibre.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 96,
+    "intitule": "Anorexie mentale : démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "1564_L2_1629293678_071-ex-069-conduites-alimentaires-.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1564_L2_1629293678_071-ex-069-conduites-alimentaires-.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 97,
+    "intitule": "Syndrome dépressif : conduite diagnostique et principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1583_L2_1635511725_072-ex-070-trouble-a-symptomatologie-somatique-et-apparentes.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1583_L2_1635511725_072-ex-070-trouble-a-symptomatologie-somatique-et-apparentes.pdf"
+      },
+      {
+        "filename": "1490_L1_psychiatrie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1490_L1_psychiatrie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 98,
+    "intitule": "Syndrome confusionnel : conduite diagnostique et principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1130_L2_1629393751_108-and-132-ex-106-and-129-confusion-demence.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1130_L2_1629393751_108-and-132-ex-106-and-129-confusion-demence.pdf"
+      },
+      {
+        "filename": "1178_L2_1636978254_336-ex-331-coma-non-traumatique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1178_L2_1636978254_336-ex-331-coma-non-traumatique.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 99,
+    "intitule": "Ménopause : diagnostic, conséquences, arguments thérapeutiques et suivi",
+    "edn_pdfs": [
+      {
+        "filename": "0502_L2_1629397358_124-ex-120-menopause.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0502_L2_1629397358_124-ex-120-menopause.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 100,
+    "intitule": "Infertilité du couple : prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "0542_L2_1638871596_039-ex-038-amp.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0542_L2_1638871596_039-ex-038-amp.pdf"
+      },
+      {
+        "filename": "1882_L2_1633702207_038-ex-037-sterilite-du-coupleg.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1882_L2_1633702207_038-ex-037-sterilite-du-coupleg.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 101,
+    "intitule": "Contraception : méthodes, contre-indications, surveillance",
+    "edn_pdfs": [
+      {
+        "filename": "0544_L2_1640266292_036-ex-035-contraception-feminine.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0544_L2_1640266292_036-ex-035-contraception-feminine.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 102,
+    "intitule": "Grossesse : diagnostic, surveillance, indication des examens complémentaires",
+    "edn_pdfs": [
+      {
+        "filename": "0420_L2_1625937742_023-ex-022-grossesse-normale.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0420_L2_1625937742_023-ex-022-grossesse-normale.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 103,
+    "intitule": "Accouchement normal en présentation du sommet",
+    "edn_pdfs": [
+      {
+        "filename": "0455_L2_1626428356_031ex-030-accouchement-normal.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0455_L2_1626428356_031ex-030-accouchement-normal.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 104,
+    "intitule": "Post-partum : surveillance clinique, allaitement et ses complications",
+    "edn_pdfs": [
+      {
+        "filename": "0463_L2_1626428893_034-ex-033-suites-de-couches-pathologiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0463_L2_1626428893_034-ex-033-suites-de-couches-pathologiques.pdf"
+      },
+      {
+        "filename": "0460_L2_1626428751_033-ex-032-allaitement-maternel.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0460_L2_1626428751_033-ex-032-allaitement-maternel.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 105,
+    "intitule": "Menace d'accouchement prématuré : étiologie, diagnostic, principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0450_L2_1626426643_030-ex-029-prematurite-and-rciu.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0450_L2_1626426643_030-ex-029-prematurite-and-rciu.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 106,
+    "intitule": "Immunisation sanguine fœto-maternelle : dépistage, prévention",
+    "edn_pdfs": [
+      {
+        "filename": "0440_L2_1626426709_027-ex-026-prevention-des-risques-ftaux.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0440_L2_1626426709_027-ex-026-prevention-des-risques-ftaux.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 107,
+    "intitule": "Ictère du nouveau-né : diagnostic et prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "0458_L2_1626428496_032-ex-031-evaluation-et-soins-du-nouveau-ne.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0458_L2_1626428496_032-ex-031-evaluation-et-soins-du-nouveau-ne.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 108,
+    "intitule": "Diarrhées aiguës de l'enfant : diagnostic et prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "0816_L2_1639224402_286-ex-283-diarrhee-aigue-et-deshydratation.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0816_L2_1639224402_286-ex-283-diarrhee-aigue-et-deshydratation.pdf"
+      },
+      {
+        "filename": "0921_L2_1639242025_176-ex-172-et-286-ex-283-diarrhee-aigue-et-deshydratation-chez-lenfant.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0921_L2_1639242025_176-ex-172-et-286-ex-283-diarrhee-aigue-et-deshydratation-chez-lenfant.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 109,
+    "intitule": "Carences nutritionnelles de l'enfant : diagnostic et prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "0281_L2_1627141943_048-ex-045-alimentation-et-besoins-nutritionnels.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0281_L2_1627141943_048-ex-045-alimentation-et-besoins-nutritionnels.pdf"
+      },
+      {
+        "filename": "0355_L2_1638958240_250-ex-248-denutrition.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0355_L2_1638958240_250-ex-248-denutrition.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 110,
+    "intitule": "Angines et pharyngites de l'enfant et de l'adulte et leurs complications : diagnostic et prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "1306_L2_1636649402_149-ex-146-rhinopharyngite-0-angine.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1306_L2_1636649402_149-ex-146-rhinopharyngite-0-angine.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 111,
+    "intitule": "Otites aiguës : étiologie, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1323_L2_1639216030_150-ex-147-otites.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1323_L2_1639216030_150-ex-147-otites.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 112,
+    "intitule": "Eruptions fébriles chez l'enfant : diagnostic et prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "0184_L2_1624283698_114-ex-112-and-160-exanthemes-and-erythrodermies.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0184_L2_1624283698_114-ex-112-and-160-exanthemes-and-erythrodermies.pdf"
+      },
+      {
+        "filename": "0825_L2_1629471751_147-ex-144-fievre-aigue-de-lenfantdocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0825_L2_1629471751_147-ex-144-fievre-aigue-de-lenfantdocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 113,
+    "intitule": "Vaccination : principes, indications, contre-indications, accidents, efficacité ; calendrier vaccinal obligatoire chez l'enfant au Maroc",
+    "edn_pdfs": [
+      {
+        "filename": "0929_L2_1651128328_146-ex-143-vaccination.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0929_L2_1651128328_146-ex-143-vaccination.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 114,
+    "intitule": "Cardiopathies cyanogènes ou non chez l'enfant : diagnostic et prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "0091_L2_1624282337_238-ex-236-souffle-cardiaque-chez-lenfantdocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0091_L2_1624282337_238-ex-236-souffle-cardiaque-chez-lenfantdocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PMED",
+    "n": 115,
+    "intitule": "Psychoses de l'enfant : diagnostic et principe de prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "1511_L2_1627983408_067-ex065-trouble-du-neurodeveloppement.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1511_L2_1627983408_067-ex065-trouble-du-neurodeveloppement.pdf"
+      },
+      {
+        "filename": "1501_L2_1627983274_063-ex-061-schizophrenie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1501_L2_1627983274_063-ex-061-schizophrenie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 1,
+    "intitule": "Hernies inguinale, crurale et ombilicale : diagnostic, évolution et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0776_L2_1636651028_289-ex-286-hernie-parietale.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0776_L2_1636651028_289-ex-286-hernie-parietale.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 2,
+    "intitule": "Complications des hernies hiatales : diagnostic et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0704_L2_1636102346_271-ex-268-rgo.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0704_L2_1636102346_271-ex-268-rgo.pdf"
+      },
+      {
+        "filename": "0776_L2_1636651028_289-ex-286-hernie-parietale.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0776_L2_1636651028_289-ex-286-hernie-parietale.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 3,
+    "intitule": "Sténose peptique de l'œsophage : diagnostic, évolution et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0718_L2_1636102497_273-ex-270-dysphagie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0718_L2_1636102497_273-ex-270-dysphagie.pdf"
+      },
+      {
+        "filename": "0783_L2_1636651669_305-ex-302-tumeurs-de-lsophage.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0783_L2_1636651669_305-ex-302-tumeurs-de-lsophage.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 4,
+    "intitule": "Adénocarcinome du cardia et du bas œsophage : épidémiologie, diagnostic et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0783_L2_1636651669_305-ex-302-tumeurs-de-lsophage.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0783_L2_1636651669_305-ex-302-tumeurs-de-lsophage.pdf"
+      },
+      {
+        "filename": "0779_L2_1636651523_303-ex-300-tumeurs-de-lestomac.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0779_L2_1636651523_303-ex-300-tumeurs-de-lestomac.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 5,
+    "intitule": "Cancer de l'œsophage : épidémiologie, diagnostic et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0783_L2_1636651669_305-ex-302-tumeurs-de-lsophage.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0783_L2_1636651669_305-ex-302-tumeurs-de-lsophage.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 6,
+    "intitule": "Cancer de l'estomac : diagnostic, bilan d'extension et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0779_L2_1636651523_303-ex-300-tumeurs-de-lestomac.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0779_L2_1636651523_303-ex-300-tumeurs-de-lestomac.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 7,
+    "intitule": "Complications de l'ulcère gastro-duodénal : diagnostic et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0709_L2_1636102416_272-ex-269-ugd.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0709_L2_1636102416_272-ex-269-ugd.pdf"
+      },
+      {
+        "filename": "0801_L2_1636652001_355-ex-350-hemorragie-digestive.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0801_L2_1636652001_355-ex-350-hemorragie-digestive.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 8,
+    "intitule": "Cancer du côlon : épidémiologie, anatomie pathologique, classification, diagnostic, pronostic, principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0764_L2_1636650506_301-ex-298-ccr.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0764_L2_1636650506_301-ex-298-ccr.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 9,
+    "intitule": "Cancer du rectum : épidémiologie, anatomie pathologique, classification, diagnostic, pronostic, principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0764_L2_1636650506_301-ex-298-ccr.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0764_L2_1636650506_301-ex-298-ccr.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 10,
+    "intitule": "Kyste hydatique du foie : épidémiologie, diagnostic, complications, principes du traitement et prévention",
+    "edn_pdfs": [
+      {
+        "filename": "0788_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0788_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf"
+      },
+      {
+        "filename": "0896_L2_1638291081_172-ex-168-parasitoses.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0896_L2_1638291081_172-ex-168-parasitoses.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 11,
+    "intitule": "Cholécystites aiguës : diagnostic et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0811_L2_1638810763_277-ex-274-lithiase-biliaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0811_L2_1638810763_277-ex-274-lithiase-biliaire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 12,
+    "intitule": "Cancer de la tête du pancréas : diagnostic clinique et paraclinique, bilan d'extension et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0760_L2_1636650468_308-ex-305-tumeurs-du-pancreas.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0760_L2_1636650468_308-ex-305-tumeurs-du-pancreas.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 13,
+    "intitule": "Traitement chirurgical des MICI (RCH et Crohn) : bases du traitement, indications et principales méthodes chirurgicales",
+    "edn_pdfs": [
+      {
+        "filename": "0743_L2_1636649189_282-ex-279-mici.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0743_L2_1636649189_282-ex-279-mici.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 14,
+    "intitule": "Méga côlon congénital : physiopathologie, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0794_L2_1636651899_354-ex-349-syndrome-occlusif.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0794_L2_1636651899_354-ex-349-syndrome-occlusif.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 15,
+    "intitule": "Sténose hypertrophique du pylore : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0685_L1_HGO.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0685_L1_HGO.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 16,
+    "intitule": "Diagnostic d'une tumeur abdominale de l'enfant : manifestations cliniques, explorations et diagnostic étiologique",
+    "edn_pdfs": [
+      {
+        "filename": "1828_L2_1636652593_297-ex-294-cancer-de-lenfant.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1828_L2_1636652593_297-ex-294-cancer-de-lenfant.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 17,
+    "intitule": "Traitement chirurgical des goitres : bases, principales méthodes, indications",
+    "edn_pdfs": [
+      {
+        "filename": "0318_L2_1635604614_241-ex-239-goitre-nodule-cancer.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0318_L2_1635604614_241-ex-239-goitre-nodule-cancer.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 18,
+    "intitule": "Cancer de la thyroïde : anatomie pathologique, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0318_L2_1635604614_241-ex-239-goitre-nodule-cancer.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0318_L2_1635604614_241-ex-239-goitre-nodule-cancer.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 19,
+    "intitule": "Tumeurs de la surrénale : circonstances de découverte et démarche diagnostique",
+    "edn_pdfs": [
+      {
+        "filename": "0341_L2_1635604755_245-ex-243-insuffisance-surrenale.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0341_L2_1635604755_245-ex-243-insuffisance-surrenale.pdf"
+      },
+      {
+        "filename": "0281_L1_endocrino-diabetologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0281_L1_endocrino-diabetologie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 20,
+    "intitule": "Tumeurs endocrines du pancréas : circonstances de découverte, démarche diagnostique, principales formes cliniques",
+    "edn_pdfs": [
+      {
+        "filename": "0760_L2_1636650468_308-ex-305-tumeurs-du-pancreas.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0760_L2_1636650468_308-ex-305-tumeurs-du-pancreas.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 21,
+    "intitule": "Cancer du sein : épidémiologie, anatomie pathologique et classification, diagnostic, traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0532_L2_1636653089_312-ex-309-tumeur-du-sein.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0532_L2_1636653089_312-ex-309-tumeur-du-sein.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 22,
+    "intitule": "Complications des avortements : diagnostic et prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "0557_L2_1642930704_037-ex-036-ivg.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0557_L2_1642930704_037-ex-036-ivg.pdf"
+      },
+      {
+        "filename": "0549_L2_1640266292_040-ex-039-douleur-pelvienne-aigue-.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0549_L2_1640266292_040-ex-039-douleur-pelvienne-aigue-.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 23,
+    "intitule": "Hémorragies au cours de la grossesse et du post-partum : diagnostic, étiologie, prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "0475_L2_1626438024_043-ex-041-hemorragies-genitales.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0475_L2_1626438024_043-ex-041-hemorragies-genitales.pdf"
+      },
+      {
+        "filename": "0463_L2_1626428893_034-ex-033-suites-de-couches-pathologiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0463_L2_1626428893_034-ex-033-suites-de-couches-pathologiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 24,
+    "intitule": "Maladie trophoblastique : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0475_L2_1626438024_043-ex-041-hemorragies-genitales.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0475_L2_1626438024_043-ex-041-hemorragies-genitales.pdf"
+      },
+      {
+        "filename": "0527_L2_1636653000_306-ex-303-tumeurs-ovariennes.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0527_L2_1636653000_306-ex-303-tumeurs-ovariennes.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 25,
+    "intitule": "Cancers du col utérin : épidémiologie, dépistage, anatomie pathologique, diagnostic et principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0520_L2_1636652898_300-ex-297-tumeurs-du-col-de-luterus.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0520_L2_1636652898_300-ex-297-tumeurs-du-col-de-luterus.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 26,
+    "intitule": "Cancers de l'endomètre : épidémiologie, diagnostic, principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0517_L2_1636652799_300-ex-297-tumeurs-du-corps-uterin.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0517_L2_1636652799_300-ex-297-tumeurs-du-corps-uterin.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 27,
+    "intitule": "Fibromyomes utérins : diagnostic, évolution et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0517_L2_1636652799_300-ex-297-tumeurs-du-corps-uterin.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0517_L2_1636652799_300-ex-297-tumeurs-du-corps-uterin.pdf"
+      },
+      {
+        "filename": "0475_L2_1626438024_043-ex-041-hemorragies-genitales.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0475_L2_1626438024_043-ex-041-hemorragies-genitales.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 28,
+    "intitule": "Tumeurs de l'ovaire : anatomie pathologique, diagnostic et principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0527_L2_1636653000_306-ex-303-tumeurs-ovariennes.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0527_L2_1636653000_306-ex-303-tumeurs-ovariennes.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 29,
+    "intitule": "Pelvipéritonites d'origine gynécologique : diagnostic, évolution et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0509_L2_1629754052_162-ex-158-salpingite.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0509_L2_1629754052_162-ex-158-salpingite.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 30,
+    "intitule": "Adénome prostatique : diagnostic, évolution et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1865_L2_1633522382_127-ex-123-hypertrophie-benigne-de-la-prostate.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1865_L2_1633522382_127-ex-123-hypertrophie-benigne-de-la-prostate.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 31,
+    "intitule": "Cancer de la prostate : diagnostic, évolution et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1853_L2_1633374543_310-ex-307-tumeur-de-la-prostate.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1853_L2_1633374543_310-ex-307-tumeur-de-la-prostate.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 32,
+    "intitule": "Cancers du testicule : anatomie pathologique, diagnostic, évolution et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1849_L2_1633212476_313-ex-310-tumeurs-du-testicules.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1849_L2_1633212476_313-ex-310-tumeurs-du-testicules.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 33,
+    "intitule": "Cancer du rein de l'adulte : anatomie pathologique, diagnostic, évolution et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1845_L2_1633212011_311-ex-308-tumeurs-du-rein.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1845_L2_1633212011_311-ex-308-tumeurs-du-rein.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 34,
+    "intitule": "Tumeurs de vessie : anatomie pathologique, diagnostic, évolution et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1899_L2_1638867688_314-ex-311-tumeurs-vesicales.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1899_L2_1638867688_314-ex-311-tumeurs-vesicales.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 35,
+    "intitule": "Lithiase urinaire : étiologie, physiopathologie, diagnostic, évolution et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1858_L2_1633522022_265-ex-262-lithiases-urinaires.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1858_L2_1633522022_265-ex-262-lithiases-urinaires.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 36,
+    "intitule": "Incontinence urinaire chez la femme : diagnostic et principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1889_L2_1638823336_125-ex-121-tb-de-la-miction-and-incontinence-urinaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1889_L2_1638823336_125-ex-121-tb-de-la-miction-and-incontinence-urinaire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 37,
+    "intitule": "Fistules vésico-vaginales : étiologies, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1889_L2_1638823336_125-ex-121-tb-de-la-miction-and-incontinence-urinaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1889_L2_1638823336_125-ex-121-tb-de-la-miction-and-incontinence-urinaire.pdf"
+      },
+      {
+        "filename": "1836_L1_urologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1836_L1_urologie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 38,
+    "intitule": "Tuberculose uro-génitale : diagnostic, complications, séquelles et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1399_L2_1635509444_159-ex-155-tuberculose.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1399_L2_1635509444_159-ex-155-tuberculose.pdf"
+      },
+      {
+        "filename": "1836_L1_urologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1836_L1_urologie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 39,
+    "intitule": "Rétrécissements de l'urètre : épidémiologie, étiologies, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1842_L2_1633211684_334-ex-329-traumatismes-urologiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1842_L2_1633211684_334-ex-329-traumatismes-urologiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 40,
+    "intitule": "Traumatismes vertébro-médullaires cervicaux : diagnostic, complications et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1609_L2_1636976908_334-ex-329-traumatisme-du-rachis-et-mains.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1609_L2_1636976908_334-ex-329-traumatisme-du-rachis-et-mains.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 41,
+    "intitule": "Traumatismes vertébro-médullaires dorso-lombaires : diagnostic, complications et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1609_L2_1636976908_334-ex-329-traumatisme-du-rachis-et-mains.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1609_L2_1636976908_334-ex-329-traumatisme-du-rachis-et-mains.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 42,
+    "intitule": "Compressions médullaires lentes : diagnostic, évolution et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "1080_L2_1629313368_093ex-091-compression-medullaire-0-syndrome-de-la-queue-de-cheval.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1080_L2_1629313368_093ex-091-compression-medullaire-0-syndrome-de-la-queue-de-cheval.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 43,
+    "intitule": "Tumeurs de la fosse cérébrale postérieure : anatomie pathologique, physiopathologie, diagnostic étiologique et évolution",
+    "edn_pdfs": [
+      {
+        "filename": "1161_L2_1636652682_299-ex-296-tumeurs-intracranienne.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1161_L2_1636652682_299-ex-296-tumeurs-intracranienne.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 44,
+    "intitule": "Fractures de l'anneau pelvien : mécanisme, classification, diagnostic, complications et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 45,
+    "intitule": "Fractures du col du fémur : classification, diagnostic et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 46,
+    "intitule": "Fractures des plateaux tibiaux : classification, diagnostic, complications et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 47,
+    "intitule": "Lésions méniscales du genou : classification, diagnostic et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "1614_L2_1636979182_361-ex-357-lesions-peri-articuaires-et-ligamentaires.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1614_L2_1636979182_361-ex-357-lesions-peri-articuaires-et-ligamentaires.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 48,
+    "intitule": "Fractures bimalléolaires : mécanismes, classification, diagnostic, complications et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 49,
+    "intitule": "Luxations récentes de l'épaule : mécanismes, classification, diagnostic, complications et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 50,
+    "intitule": "Ostéomyélites aiguës de l'enfant : physiopathologie, diagnostic clinique et paraclinique, évolution, complications, formes cliniques et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1697_L2_1643642404_156-ex-153-infections-osteo-articulaires.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1697_L2_1643642404_156-ex-153-infections-osteo-articulaires.pdf"
+      },
+      {
+        "filename": "1677_L2_1642165919_054-ex-052-and-153-boiterie-et-infection-osteo-articulaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1677_L2_1642165919_054-ex-052-and-153-boiterie-et-infection-osteo-articulaire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 51,
+    "intitule": "Tumeurs malignes des os : classification, diagnostic et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "1603_L2_1636653229_307-ex-304-tumeurs-des-os.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1603_L2_1636653229_307-ex-304-tumeurs-des-os.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 52,
+    "intitule": "Luxation congénitale de la hanche avant l'âge de la marche : facteurs étiologiques, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1677_L2_1642165919_054-ex-052-and-153-boiterie-et-infection-osteo-articulaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1677_L2_1642165919_054-ex-052-and-153-boiterie-et-infection-osteo-articulaire.pdf"
+      },
+      {
+        "filename": "0486_L2_1627141697_047-ex-044-depistage-des-anomalies-orthopediquesj-visuels-et-auditifs.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0486_L2_1627141697_047-ex-044-depistage-des-anomalies-orthopediquesj-visuels-et-auditifs.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 53,
+    "intitule": "Epiphysiolyse fémorale supérieure : facteurs étiologiques, diagnostic, complications et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "1677_L2_1642165919_054-ex-052-and-153-boiterie-et-infection-osteo-articulaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1677_L2_1642165919_054-ex-052-and-153-boiterie-et-infection-osteo-articulaire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 54,
+    "intitule": "Ostéochondrite primitive de la hanche : facteurs étiologiques, diagnostic, évolution et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "1677_L2_1642165919_054-ex-052-and-153-boiterie-et-infection-osteo-articulaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1677_L2_1642165919_054-ex-052-and-153-boiterie-et-infection-osteo-articulaire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 55,
+    "intitule": "Artériopathies oblitérantes des membres inférieurs : diagnostic, évolution et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 56,
+    "intitule": "Sténose de la carotide interne extra crânienne : diagnostic, évolution et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf"
+      },
+      {
+        "filename": "1190_L2_1636978478_340-ex-335-avc.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1190_L2_1636978478_340-ex-335-avc.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 57,
+    "intitule": "Varices des membres inférieurs : diagnostic, évolution et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0114_L2_1627991936_227-ex-225-insuffisance-veineuse-chronique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0114_L2_1627991936_227-ex-225-insuffisance-veineuse-chronique.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 58,
+    "intitule": "Anévrysmes de l'aorte abdominale sous-rénale : étiologie, diagnostic, complications et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 59,
+    "intitule": "Insuffisance entéromésentérique chronique : diagnostic, évolution et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 60,
+    "intitule": "Kystes hydatiques du poumon : diagnostic et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "0896_L2_1638291081_172-ex-168-parasitoses.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0896_L2_1638291081_172-ex-168-parasitoses.pdf"
+      },
+      {
+        "filename": "1372_L1_pneumologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1372_L1_pneumologie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 61,
+    "intitule": "Cancers bronchiques : épidémiologie, anatomie pathologique, diagnostic, évolution et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "1483_L2_1642348245_309-ex-306-tumeurs-du-poumon.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1483_L2_1642348245_309-ex-306-tumeurs-du-poumon.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 62,
+    "intitule": "Dyspnée laryngée : diagnostic étiologique et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1300_L2_1635509660_203-ex-199-dyspnee-laryngee.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1300_L2_1635509660_203-ex-199-dyspnee-laryngee.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 63,
+    "intitule": "Obstruction nasale : diagnostic étiologique et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1340_L2_1642154447_148-ex-145-infection-naso-sinusienne.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1340_L2_1642154447_148-ex-145-infection-naso-sinusienne.pdf"
+      },
+      {
+        "filename": "1285_L1_ORL.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1285_L1_ORL.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 64,
+    "intitule": "Cancer du cavum : épidémiologie, anatomie pathologique, diagnostic et principes thérapeutiques",
+    "edn_pdfs": [
+      {
+        "filename": "1362_L2_1642351277_298-ex-295-tumeurs-vads.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1362_L2_1642351277_298-ex-295-tumeurs-vads.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 65,
+    "intitule": "Cataracte : diagnostic, principes de traitement et de prévention",
+    "edn_pdfs": [
+      {
+        "filename": "1243_L2_1629294063_081-ex-127-alteration-chronique-de-la-vision-cataracte-et-dmla.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1243_L2_1629294063_081-ex-127-alteration-chronique-de-la-vision-cataracte-et-dmla.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 66,
+    "intitule": "Glaucome primitif à angle fermé : physiopathologie, diagnostic, évolution et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1254_L2_1629294351_084-ex-082-glaucome-chronique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1254_L2_1629294351_084-ex-082-glaucome-chronique.pdf"
+      },
+      {
+        "filename": "1249_L2_1629294188_082-ex-080-alteration-aigue-de-la-vision.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1249_L2_1629294188_082-ex-080-alteration-aigue-de-la-vision.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "PCHIR",
+    "n": 67,
+    "intitule": "Trachome : définition, différents stades, complications et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1265_L2_1635508083_083-ex-081-infection-et-inflammation-oculaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1265_L2_1635508083_083-ex-081-infection-et-inflammation-oculaire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 1,
+    "intitule": "Pneumothorax spontané : diagnostic et prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "1381_L2_1633805135_360-ex-356-pneumothorax.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1381_L2_1633805135_360-ex-356-pneumothorax.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 2,
+    "intitule": "Asthme aigu grave : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1409_L2_1635509554_188-ex-184-asthme.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1409_L2_1635509554_188-ex-184-asthme.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 3,
+    "intitule": "Détresse respiratoire aiguë du nouveau-né, de l'enfant et de l'adulte : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1441_L2_1635604195_359-ex-354-detresse-respiratoire-aigue-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1441_L2_1635604195_359-ex-354-detresse-respiratoire-aigue-chez-ladulte.pdf"
+      },
+      {
+        "filename": "1446_L2_1635604242_359-ex-354-detresse-respiratoire-aigue-chez-le-nourrisson-et-lenfant.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1446_L2_1635604242_359-ex-354-detresse-respiratoire-aigue-chez-le-nourrisson-et-lenfant.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 4,
+    "intitule": "Arrêt cardio-circulatoire de l'adulte : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0156_L2_1637257544_331-ex-327-arret-cardiorespiratoire-chez-ladultedocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0156_L2_1637257544_331-ex-327-arret-cardiorespiratoire-chez-ladultedocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 5,
+    "intitule": "Douleur thoracique aiguë : conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0128_L2_1635510062_230-ex-228-douleurs-thoraciques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0128_L2_1635510062_230-ex-228-douleurs-thoraciques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 6,
+    "intitule": "Syndrome coronarien aigu : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0139_L2_1636917290_339-ex-334-syndromes-coronariens-aigus.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0139_L2_1636917290_339-ex-334-syndromes-coronariens-aigus.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 7,
+    "intitule": "Embolie pulmonaire : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1431_L2_1635511793_226-ex-224-mtv-ep.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1431_L2_1635511793_226-ex-224-mtv-ep.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 8,
+    "intitule": "Paludisme grave : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0835_L2_1630914229_170-ex-166-paludisme.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0835_L2_1630914229_170-ex-166-paludisme.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 9,
+    "intitule": "Méningites purulentes (adultes et enfants) : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0869_L2_1635509070_151-ex-148-meningites.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0869_L2_1635509070_151-ex-148-meningites.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 10,
+    "intitule": "Etat de choc : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0097_L2_1624282396_332-ex-328-etat-de-chocdocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0097_L2_1624282396_332-ex-328-etat-de-chocdocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 11,
+    "intitule": "Œdème aigu du poumon cardiogénique : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0075_L2_1624282299_234-ex-232-insuffisance-cardiaquedocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0075_L2_1624282299_234-ex-232-insuffisance-cardiaquedocx.pdf"
+      },
+      {
+        "filename": "1441_L2_1635604195_359-ex-354-detresse-respiratoire-aigue-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1441_L2_1635604195_359-ex-354-detresse-respiratoire-aigue-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 12,
+    "intitule": "Complications graves d'une transfusion sanguine et des produits sanguins labiles : diagnostic et conduite à tenir en urgence",
+    "edn_pdfs": [
+      {
+        "filename": "0668_L2_1635091697_329-ex-325-transfusion-sanguine.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0668_L2_1635091697_329-ex-325-transfusion-sanguine.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 13,
+    "intitule": "Accidents des anticoagulants : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0676_L2_1635091760_330-ex-326-antithrombotique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0676_L2_1635091760_330-ex-326-antithrombotique.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 14,
+    "intitule": "Accident vasculaire cérébral à la phase aiguë : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1190_L2_1636978478_340-ex-335-avc.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1190_L2_1636978478_340-ex-335-avc.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 15,
+    "intitule": "Coma non traumatique : conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1178_L2_1636978254_336-ex-331-coma-non-traumatique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1178_L2_1636978254_336-ex-331-coma-non-traumatique.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 16,
+    "intitule": "Acidocétose diabétique : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0365_L2_1650804314_247-ex-245-diabete.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0365_L2_1650804314_247-ex-245-diabete.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 17,
+    "intitule": "Coma hyperosmolaire : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0365_L2_1650804314_247-ex-245-diabete.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0365_L2_1650804314_247-ex-245-diabete.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 18,
+    "intitule": "Etat d'agitation aigu : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1585_L2_1636979007_351-ex-346-agitation-et-delire-aigu.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1585_L2_1636979007_351-ex-346-agitation-et-delire-aigu.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 19,
+    "intitule": "Céphalée aiguë : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1151_L2_1635508399_100-ex-098-cephalees.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1151_L2_1635508399_100-ex-098-cephalees.pdf"
+      },
+      {
+        "filename": "1220_L2_1638374715_099-ex-097-migraine-nevralgie-du-trijumeau-et-algie-de-la-face.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1220_L2_1638374715_099-ex-097-migraine-nevralgie-du-trijumeau-et-algie-de-la-face.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 20,
+    "intitule": "Perte de connaissance brève : conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1209_L2_1636978513_342-ex-337-malaise-perte-de-connaissance.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1209_L2_1636978513_342-ex-337-malaise-perte-de-connaissance.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 21,
+    "intitule": "Etat de mal épileptique chez l'adulte : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1115_L2_1629392894_105-ex-103-epilepsie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1115_L2_1629392894_105-ex-103-epilepsie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 22,
+    "intitule": "Paralysie extensive : conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1148_L2_1635508271_097-ex-095-syndrome-de-guillain-barre.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1148_L2_1635508271_097-ex-095-syndrome-de-guillain-barre.pdf"
+      },
+      {
+        "filename": "1077_L2_1629313321_092-ex-090-deficit-moteur-sensitif.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1077_L2_1629313321_092-ex-090-deficit-moteur-sensitif.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 23,
+    "intitule": "Intoxication aiguë médicamenteuse : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1182_L2_1636978314_337-ex-332-intoxications-aigues-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1182_L2_1636978314_337-ex-332-intoxications-aigues-chez-ladulte.pdf"
+      },
+      {
+        "filename": "1594_L2_1636996803_transversalite-intoxications-par-psychotropes.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1594_L2_1636996803_transversalite-intoxications-par-psychotropes.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 24,
+    "intitule": "Intoxication aiguë par le monoxyde de carbone : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1182_L2_1636978314_337-ex-332-intoxications-aigues-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1182_L2_1636978314_337-ex-332-intoxications-aigues-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 25,
+    "intitule": "Intoxication aiguë par la paraphénylène diamine (Takaout Roumia) : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1182_L2_1636978314_337-ex-332-intoxications-aigues-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1182_L2_1636978314_337-ex-332-intoxications-aigues-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 26,
+    "intitule": "Intoxication aiguë par les pesticides organophosphorés : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1182_L2_1636978314_337-ex-332-intoxications-aigues-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1182_L2_1636978314_337-ex-332-intoxications-aigues-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 27,
+    "intitule": "Piqûre de scorpion et morsure de vipère : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1182_L2_1636978314_337-ex-332-intoxications-aigues-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1182_L2_1636978314_337-ex-332-intoxications-aigues-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 28,
+    "intitule": "Grosse jambe rouge aiguë : conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0258_L2_1635691969_350-ex-345-grosse-jambe-rouge-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0258_L2_1635691969_350-ex-345-grosse-jambe-rouge-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 29,
+    "intitule": "Insuffisance rénale aiguë : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1062_L2_1638788664_348-ex-343-insuffisance-renale-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1062_L2_1638788664_348-ex-343-insuffisance-renale-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 30,
+    "intitule": "Hypoglycémie : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0312_L2_1635604541_240-ex-238-hypoglycemie-chez-ladulte-et-lenfant.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0312_L2_1635604541_240-ex-238-hypoglycemie-chez-ladulte-et-lenfant.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 31,
+    "intitule": "Insuffisance surrénale aiguë : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0341_L2_1635604755_245-ex-243-insuffisance-surrenale.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0341_L2_1635604755_245-ex-243-insuffisance-surrenale.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 32,
+    "intitule": "Colique hépatique : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0811_L2_1638810763_277-ex-274-lithiase-biliaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0811_L2_1638810763_277-ex-274-lithiase-biliaire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 33,
+    "intitule": "Colique néphrétique : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1858_L2_1633522022_265-ex-262-lithiases-urinaires.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1858_L2_1633522022_265-ex-262-lithiases-urinaires.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 34,
+    "intitule": "Œil rouge et/ou douloureux : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1249_L2_1629294188_082-ex-080-alteration-aigue-de-la-vision.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1249_L2_1629294188_082-ex-080-alteration-aigue-de-la-vision.pdf"
+      },
+      {
+        "filename": "1265_L2_1635508083_083-ex-081-infection-et-inflammation-oculaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1265_L2_1635508083_083-ex-081-infection-et-inflammation-oculaire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 35,
+    "intitule": "Eclampsie : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0435_L2_1625938591_344-ex-339-preeclampsie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0435_L2_1625938591_344-ex-339-preeclampsie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 36,
+    "intitule": "Hyperthermie majeure chez l'enfant et l'adulte : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0823_L2_1629471713_147-ex-144-fievre-aigue-chez-ladultedocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0823_L2_1629471713_147-ex-144-fievre-aigue-chez-ladultedocx.pdf"
+      },
+      {
+        "filename": "0825_L2_1629471751_147-ex-144-fievre-aigue-de-lenfantdocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0825_L2_1629471751_147-ex-144-fievre-aigue-de-lenfantdocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 37,
+    "intitule": "Réanimation du nouveau-né en salle d'accouchement",
+    "edn_pdfs": [
+      {
+        "filename": "0458_L2_1626428496_032-ex-031-evaluation-et-soins-du-nouveau-ne.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0458_L2_1626428496_032-ex-031-evaluation-et-soins-du-nouveau-ne.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 38,
+    "intitule": "Convulsion du nourrisson : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "1115_L2_1629392894_105-ex-103-epilepsie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1115_L2_1629392894_105-ex-103-epilepsie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 39,
+    "intitule": "Déshydratation aiguë du nourrisson : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0816_L2_1639224402_286-ex-283-diarrhee-aigue-et-deshydratation.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0816_L2_1639224402_286-ex-283-diarrhee-aigue-et-deshydratation.pdf"
+      },
+      {
+        "filename": "0921_L2_1639242025_176-ex-172-et-286-ex-283-diarrhee-aigue-et-deshydratation-chez-lenfant.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0921_L2_1639242025_176-ex-172-et-286-ex-283-diarrhee-aigue-et-deshydratation-chez-lenfant.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 40,
+    "intitule": "Troubles du rythme ou de conduction cardiaque : conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0086_L2_1624282317_236-ex-234-troubles-de-la-conductiondocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0086_L2_1624282317_236-ex-234-troubles-de-la-conductiondocx.pdf"
+      },
+      {
+        "filename": "0108_L2_1625306744_232-ex-230-fibrillation-atrialedocx.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0108_L2_1625306744_232-ex-230-fibrillation-atrialedocx.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 41,
+    "intitule": "Hémoptysie : conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1378_L2_1632429378_205-ex-201-hemoptysie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1378_L2_1632429378_205-ex-201-hemoptysie.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 42,
+    "intitule": "Hémorragie méningée : conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1204_L2_1636978490_341-ex-336-hemorragie-meningee.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1204_L2_1636978490_341-ex-336-hemorragie-meningee.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 43,
+    "intitule": "Tétanos de l'adulte : diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0830_L2_1629754177_160-ex-156-tetanos.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0830_L2_1629754177_160-ex-156-tetanos.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 44,
+    "intitule": "Noyade : conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1166_L2_1636977058_334-ex-329-prise-en-charge-immediate-prehospitaliere-et-a-larrivee-a-lhopital.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1166_L2_1636977058_334-ex-329-prise-en-charge-immediate-prehospitaliere-et-a-larrivee-a-lhopital.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 45,
+    "intitule": "Etat délirant aigu : conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1529_L2_1627983745_065-ex-063-trouble-delirant-persistant.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1529_L2_1627983745_065-ex-063-trouble-delirant-persistant.pdf"
+      },
+      {
+        "filename": "1585_L2_1636979007_351-ex-346-agitation-et-delire-aigu.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1585_L2_1636979007_351-ex-346-agitation-et-delire-aigu.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UMED",
+    "n": 46,
+    "intitule": "Crise d'angoisse : conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1588_L2_1636979017_352-ex-347-attaque-de-panique.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1588_L2_1636979017_352-ex-347-attaque-de-panique.pdf"
+      },
+      {
+        "filename": "1504_L2_1627983454_066-ex-064-troubles-anxieux.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1504_L2_1627983454_066-ex-064-troubles-anxieux.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 1,
+    "intitule": "Brûlures caustiques œsogastroduodénales : physiopathologie, évaluation de la gravité et indications de la chirurgie en urgence",
+    "edn_pdfs": [
+      {
+        "filename": "0718_L2_1636102497_273-ex-270-dysphagie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0718_L2_1636102497_273-ex-270-dysphagie.pdf"
+      },
+      {
+        "filename": "0685_L1_HGO.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0685_L1_HGO.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 2,
+    "intitule": "Hémorragie digestive haute : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0801_L2_1636652001_355-ex-350-hemorragie-digestive.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0801_L2_1636652001_355-ex-350-hemorragie-digestive.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 3,
+    "intitule": "Hémorragie digestive basse : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0801_L2_1636652001_355-ex-350-hemorragie-digestive.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0801_L2_1636652001_355-ex-350-hemorragie-digestive.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 4,
+    "intitule": "Abdomen aigu non traumatique en dehors de la période post-opératoire : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0808_L2_1636652052_357-ex-352-peritonite-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0808_L2_1636652052_357-ex-352-peritonite-aigue.pdf"
+      },
+      {
+        "filename": "0702_L2_1636102289_269-ex-267-douleurs-abdominales-et-lombaires-aigues.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0702_L2_1636102289_269-ex-267-douleurs-abdominales-et-lombaires-aigues.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 5,
+    "intitule": "Ulcère duodénal perforé : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0709_L2_1636102416_272-ex-269-ugd.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0709_L2_1636102416_272-ex-269-ugd.pdf"
+      },
+      {
+        "filename": "0808_L2_1636652052_357-ex-352-peritonite-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0808_L2_1636652052_357-ex-352-peritonite-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 6,
+    "intitule": "Angiocholites aiguës : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0811_L2_1638810763_277-ex-274-lithiase-biliaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0811_L2_1638810763_277-ex-274-lithiase-biliaire.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 7,
+    "intitule": "Appendicites aiguës et leurs complications : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0804_L2_1636652001_356-ex-351-appendicite.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0804_L2_1636652001_356-ex-351-appendicite.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 8,
+    "intitule": "Pancréatite aiguë : diagnostic, évaluation de la gravité et prise en charge",
+    "edn_pdfs": [
+      {
+        "filename": "0698_L2_1635510178_358-ex-353-pancreatite-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0698_L2_1635510178_358-ex-353-pancreatite-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 9,
+    "intitule": "Occlusion du grêle : physiopathologie, diagnostic et principes du traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0794_L2_1636651899_354-ex-349-syndrome-occlusif.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0794_L2_1636651899_354-ex-349-syndrome-occlusif.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 10,
+    "intitule": "Occlusion du côlon : physiopathologie, diagnostic et traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0794_L2_1636651899_354-ex-349-syndrome-occlusif.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0794_L2_1636651899_354-ex-349-syndrome-occlusif.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 11,
+    "intitule": "Invagination intestinale aiguë : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0794_L2_1636651899_354-ex-349-syndrome-occlusif.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0794_L2_1636651899_354-ex-349-syndrome-occlusif.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 12,
+    "intitule": "Volvulus du sigmoïde : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0794_L2_1636651899_354-ex-349-syndrome-occlusif.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0794_L2_1636651899_354-ex-349-syndrome-occlusif.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 13,
+    "intitule": "Hernies étranglées : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0776_L2_1636651028_289-ex-286-hernie-parietale.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0776_L2_1636651028_289-ex-286-hernie-parietale.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 14,
+    "intitule": "Contusion de l'abdomen : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0792_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0792_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 15,
+    "intitule": "Plaie pénétrante de l'abdomen : conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0792_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0792_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 16,
+    "intitule": "Hémopéritoine post-traumatique : diagnostic, traitement",
+    "edn_pdfs": [
+      {
+        "filename": "0792_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0792_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 17,
+    "intitule": "Hématome rétropéritonéal post-traumatique : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0792_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0792_L2_1636651821_334-ex-329-traumatisme-abdominal.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 18,
+    "intitule": "Traumatismes fermés du thorax : physiopathologie, diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1166_L2_1636977058_334-ex-329-prise-en-charge-immediate-prehospitaliere-et-a-larrivee-a-lhopital.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1166_L2_1636977058_334-ex-329-prise-en-charge-immediate-prehospitaliere-et-a-larrivee-a-lhopital.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 19,
+    "intitule": "Traumatismes ouverts du thorax : physiopathologie, diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1166_L2_1636977058_334-ex-329-prise-en-charge-immediate-prehospitaliere-et-a-larrivee-a-lhopital.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1166_L2_1636977058_334-ex-329-prise-en-charge-immediate-prehospitaliere-et-a-larrivee-a-lhopital.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 20,
+    "intitule": "Plaies du cœur : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0051_L1_cardiologie.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0051_L1_cardiologie.pdf"
+      },
+      {
+        "filename": "1166_L2_1636977058_334-ex-329-prise-en-charge-immediate-prehospitaliere-et-a-larrivee-a-lhopital.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1166_L2_1636977058_334-ex-329-prise-en-charge-immediate-prehospitaliere-et-a-larrivee-a-lhopital.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 21,
+    "intitule": "Traumatisme crânien : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1171_L2_1636977247_335-ex-330-traumatisme-craniofacial-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1171_L2_1636977247_335-ex-330-traumatisme-craniofacial-chez-ladulte.pdf"
+      },
+      {
+        "filename": "1177_L2_1636977284_335-ex-330-traumatisme-cranien-chez-lenfant.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1177_L2_1636977284_335-ex-330-traumatisme-cranien-chez-lenfant.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 22,
+    "intitule": "Hématome extra-dural : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1171_L2_1636977247_335-ex-330-traumatisme-craniofacial-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1171_L2_1636977247_335-ex-330-traumatisme-craniofacial-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 23,
+    "intitule": "Syndrome d'hypertension intra-crânienne : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1161_L2_1636652682_299-ex-296-tumeurs-intracranienne.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1161_L2_1636652682_299-ex-296-tumeurs-intracranienne.pdf"
+      },
+      {
+        "filename": "1171_L2_1636977247_335-ex-330-traumatisme-craniofacial-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1171_L2_1636977247_335-ex-330-traumatisme-craniofacial-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 24,
+    "intitule": "Abcès encéphalique : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0869_L2_1635509070_151-ex-148-meningites.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0869_L2_1635509070_151-ex-148-meningites.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 25,
+    "intitule": "Ischémie aiguë des membres inférieurs : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 26,
+    "intitule": "Traumatismes vasculaires des membres : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0159_L2_1640265640_225-ex-223-aomi-anevrisme-et-ischemie-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 27,
+    "intitule": "Grosse bourse aiguë : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1895_L2_1638867688_050-ex-048-pathologie-genito-scrotale.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1895_L2_1638867688_050-ex-048-pathologie-genito-scrotale.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 28,
+    "intitule": "Rétention aiguë d'urine : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1838_L2_1633191525_347-ex-342-retention-aigue-durine.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1838_L2_1633191525_347-ex-342-retention-aigue-durine.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 29,
+    "intitule": "Les anuries mécaniques : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1062_L2_1638788664_348-ex-343-insuffisance-renale-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1062_L2_1638788664_348-ex-343-insuffisance-renale-aigue.pdf"
+      },
+      {
+        "filename": "1838_L2_1633191525_347-ex-342-retention-aigue-durine.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1838_L2_1633191525_347-ex-342-retention-aigue-durine.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 30,
+    "intitule": "La cellulite périnéo-scrotale : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1612_L2_1636979182_349-ex-344-infection-aigue-des-parties-molles.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1612_L2_1636979182_349-ex-344-infection-aigue-des-parties-molles.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 31,
+    "intitule": "Traumatisme de l'urètre : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1842_L2_1633211684_334-ex-329-traumatismes-urologiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1842_L2_1633211684_334-ex-329-traumatismes-urologiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 32,
+    "intitule": "Fracture de la rotule : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 33,
+    "intitule": "Fractures ouvertes de jambe : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 34,
+    "intitule": "Luxation du coude : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 35,
+    "intitule": "Fracture de l'extrémité inférieure du radius : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 36,
+    "intitule": "Fracture de l'extrémité inférieure de l'humérus : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 37,
+    "intitule": "Entorses graves de la cheville : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1614_L2_1636979182_361-ex-357-lesions-peri-articuaires-et-ligamentaires.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1614_L2_1636979182_361-ex-357-lesions-peri-articuaires-et-ligamentaires.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 38,
+    "intitule": "Entorses du genou : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1614_L2_1636979182_361-ex-357-lesions-peri-articuaires-et-ligamentaires.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1614_L2_1636979182_361-ex-357-lesions-peri-articuaires-et-ligamentaires.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 39,
+    "intitule": "Ruptures du tendon d'Achille : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1614_L2_1636979182_361-ex-357-lesions-peri-articuaires-et-ligamentaires.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1614_L2_1636979182_361-ex-357-lesions-peri-articuaires-et-ligamentaires.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 40,
+    "intitule": "Ecrasements des membres : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1689_L2_1642346931_363-ex-359-fractures-frequentes-chez-ladulte.pdf"
+      },
+      {
+        "filename": "1062_L2_1638788664_348-ex-343-insuffisance-renale-aigue.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1062_L2_1638788664_348-ex-343-insuffisance-renale-aigue.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 41,
+    "intitule": "Panaris et phlegmon de la main : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "1612_L2_1636979182_349-ex-344-infection-aigue-des-parties-molles.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1612_L2_1636979182_349-ex-344-infection-aigue-des-parties-molles.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 42,
+    "intitule": "Brûlures : physiopathologie, bilan initial et prise en charge thérapeutique dans les premières 48 heures",
+    "edn_pdfs": [
+      {
+        "filename": "1166_L2_1636977058_334-ex-329-prise-en-charge-immediate-prehospitaliere-et-a-larrivee-a-lhopital.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/1166_L2_1636977058_334-ex-329-prise-en-charge-immediate-prehospitaliere-et-a-larrivee-a-lhopital.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 43,
+    "intitule": "Grossesse extra-utérine : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0512_L2_1630955538_025-ex-024-grossesse-extra-uterine.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0512_L2_1630955538_025-ex-024-grossesse-extra-uterine.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 44,
+    "intitule": "Hémorragie de la délivrance : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0475_L2_1626438024_043-ex-041-hemorragies-genitales.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0475_L2_1626438024_043-ex-041-hemorragies-genitales.pdf"
+      },
+      {
+        "filename": "0463_L2_1626428893_034-ex-033-suites-de-couches-pathologiques.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0463_L2_1626428893_034-ex-033-suites-de-couches-pathologiques.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 45,
+    "intitule": "Placenta praevia : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0475_L2_1626438024_043-ex-041-hemorragies-genitales.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0475_L2_1626438024_043-ex-041-hemorragies-genitales.pdf"
+      },
+      {
+        "filename": "0423_L2_1625937840_024-ex-023-complications-de-la-grossesse.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0423_L2_1625937840_024-ex-023-complications-de-la-grossesse.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 46,
+    "intitule": "Hématome rétro-placentaire : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0423_L2_1625937840_024-ex-023-complications-de-la-grossesse.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0423_L2_1625937840_024-ex-023-complications-de-la-grossesse.pdf"
+      },
+      {
+        "filename": "0475_L2_1626438024_043-ex-041-hemorragies-genitales.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0475_L2_1626438024_043-ex-041-hemorragies-genitales.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 47,
+    "intitule": "Rupture utérine : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0423_L2_1625937840_024-ex-023-complications-de-la-grossesse.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0423_L2_1625937840_024-ex-023-complications-de-la-grossesse.pdf"
+      }
+    ]
+  },
+  {
+    "matiere": "UCHIR",
+    "n": 48,
+    "intitule": "Douleur anale et péri-anale aiguë : diagnostic et conduite à tenir",
+    "edn_pdfs": [
+      {
+        "filename": "0773_L2_1636651523_289-ex-286-pathologie-hemorroidaire.pdf",
+        "url": "https://github.com/ousstwo/edn-chapitres/releases/download/v1.0/0773_L2_1636651523_289-ex-286-pathologie-hemorroidaire.pdf"
+      }
+    ]
+  }
+]
